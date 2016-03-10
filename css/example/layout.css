@@ -8,6 +8,7 @@ a { font-size: 12px; color: #0F83DB; text-decoration: none; }
 .fleft { display: inline; float: left; margin-left: 10px; }
 .fright { display: inline; float: right; margin-right: 10px; }
 #content, #footer { max-width: 760px; margin: 50px auto; margin-bottom: 0; padding: 20px 20px 40px; background: #FFF; border: 1px solid #CCC; border-bottom: none; }
+#content{min-height: 380px;}
 #content h1 { margin: 0; color: #F60; }
 hr { border: none; height: 1px; line-height: 1px; background: #CCC; margin-bottom: 20px; padding: 0; }
 p { margin: 0; padding: 7px 0; }
