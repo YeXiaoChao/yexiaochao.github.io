@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,user-scalable=no" name="viewport" />
+    <link href="../../img/web.ico" type="image/x-icon" rel="shortcut icon" />
+    <title>Various Artists - You’re Beautiful</title>
+    <link href="../../css/layout.css" rel="stylesheet" />
+    <link href="../../css/music.css" rel="stylesheet" />
+</head>
+<body>
+
+<div id="header">
+    <div id="header_nav">
+        <div class="fleft">
+            <a class="top_home" title="首页" href="http://yexiaochao.github.io/">HOME</a>
+            <a class="top_blog" title="博客" href="http://www.cnblogs.com/yc-755909659/">BLOG</a>
+        </div>
+        <div class="fright">
+            <a class="top_about" title="关于作者" href="http://yexiaochao.github.io/about.html">ABOUT</a>
+        </div>
+    </div>
+</div>
+
+<div id="content" class="music_details">
+    <div>
+        <img style="border-width:0px;" src="../../music/Katy Perry/Teenage Dream/disc 01/396236.jpg" id="imgMusic">
+    </div>
+    <div>
+        <p><span id="lb_MusicName">Katy Perry - E.T.mp3</span></p>
+    </div>
+    <audio src="Teenage Dream/disc 01/08 - E.T.mp3"/>
+</div>
+
+
+<div id="footer">
+    <div class="fleft">Copyright &copy; 2015 &nbsp;<a href="https://github.com/YeXiaoChao">叶超Luka</a></div>
+</div>
+
+<script type="text/javascript" src="../../js/base.js"></script>
+<script src="../../plugin/audiojs-master/audiojs/audio.min.js"></script>
+<script>
+    audiojs.events.ready(function () {
+        var as = audiojs.createAll();
+    });
+</script>
+</body>
+</html>

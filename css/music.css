@@ -1,0 +1,19 @@
+.page_musiclist { max-width: 900px; height: auto; margin: auto; }
+.music_title { max-width: 900px; height: auto; margin: auto; color: #29b4f0; }
+.music_list { max-width: 900px; height: auto; margin: auto; }
+.music_list li { cursor: pointer; float: left; margin: 6px; }
+.music_list img { height: 168px; width: 168px; }
+.music_name { color: #29b4f0; }
+/*imglist*/
+.imglist { clear: both; overflow: hidden; }
+.imglist li { width: 168px; float: left; margin-right: 8px; margin-bottom: 10px; cursor: pointer; }
+.imglist li h2 { text-align: center; line-height: 20px; }
+.imglist li p { text-align: center; line-height: 17px; background: url(../images/line1.png) center center no-repeat; }
+.imglist li p a { color: #1f7cb6; }
+.imglist li p a:hover { color: #F60; }
+.music_details { height: auto; margin: auto; max-width: 900px; margin-top: 10px; }
+.audiojs { margin: auto; }
+.music_details img { max-width: 460px; }
+.music_details p { color: #29b4f0; font-weight: bold; margin: 2px auto; max-width: 460px; text-align: center; }
+.music_details p.music_details_album { color: #aaa; }
+.test_list { font-size: 22px; font-weight: bold; height: 22px; line-height: 22px; margin: 10px; }
