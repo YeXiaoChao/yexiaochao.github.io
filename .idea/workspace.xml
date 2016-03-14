@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line1.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/Manifest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/audiojs/audio.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/audiojs/audio.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/audiojs/audiojs.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/audiojs/audiojs.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/audiojs/player-graphics.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/demos/test4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/demos/test6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/includes/divider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/includes/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/audiojs-master/index.html" afterPath="" />
+    <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/example/page4dynamicmenu.css" afterPath="$PROJECT_DIR$/css/example/page4dynamicmenu.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/layout.css" afterPath="$PROJECT_DIR$/css/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/music.css" afterPath="$PROJECT_DIR$/css/music.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/base.js" afterPath="$PROJECT_DIR$/js/base.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music.html" afterPath="$PROJECT_DIR$/music.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/Katy Perry/396236.html" afterPath="$PROJECT_DIR$/music/Katy Perry/396236.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/Various Artists/433125.html" afterPath="$PROJECT_DIR$/music/Various Artists/433125.html" />
     </list>
     <ignored path="yexiaochao.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="music.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="music.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/music.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40960452">
+            <state vertical-scroll-proportion="-5.178571">
               <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
               <folding />
             </state>
@@ -70,8 +49,18 @@
       <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.928571">
-              <caret line="63" column="60" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
+            <state vertical-scroll-proportion="-4.214286">
+              <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page4dynamicmenu.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/example/page4dynamicmenu.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.26836157">
+              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -120,11 +109,9 @@
       <file leaf-file-name="396236.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/music/Katy Perry/396236.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.357142">
-              <caret line="42" column="63" selection-start-line="42" selection-start-column="63" selection-end-line="42" selection-end-column="63" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-4.892857">
+              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -177,9 +164,9 @@
         <option value="$PROJECT_DIR$/css/example/page4dynamicmenu.css" />
         <option value="$PROJECT_DIR$/js/base.js" />
         <option value="$PROJECT_DIR$/music/Various Artists/433125.html" />
+        <option value="$PROJECT_DIR$/css/music.css" />
         <option value="$PROJECT_DIR$/music/Katy Perry/396236.html" />
         <option value="$PROJECT_DIR$/css/layout.css" />
-        <option value="$PROJECT_DIR$/css/music.css" />
       </list>
     </option>
   </component>
@@ -736,7 +723,7 @@
       <workItem from="1457577205619" duration="7009000" />
       <workItem from="1457590785509" duration="6583000" />
       <workItem from="1457927325085" duration="3675000" />
-      <workItem from="1457936195664" duration="5423000" />
+      <workItem from="1457936195664" duration="5495000" />
     </task>
     <task id="LOCAL-00001" summary="dd">
       <created>1457578983024</created>
@@ -834,11 +821,17 @@
       <option name="project" value="LOCAL" />
       <updated>1457940540039</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update">
+      <created>1457947045589</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1457947045589</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22690000" />
+    <option name="totallyTimeSpent" value="22762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -915,9 +908,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="99" selection-start-line="26" selection-start-column="99" selection-end-line="26" selection-end-column="99" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1157,14 +1148,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/example/page4dynamicmenu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.714286">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example/page4mobile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.678572">
@@ -1189,16 +1172,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/music/Katy Perry/396236.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.357142">
-          <caret line="42" column="63" selection-start-line="42" selection-start-column="63" selection-end-line="42" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/music.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.392857">
@@ -1207,18 +1180,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/layout.css">
+    <entry file="file://$PROJECT_DIR$/css/music.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.928571">
-          <caret line="63" column="60" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
+        <state vertical-scroll-proportion="-5.178571">
+          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/music.css">
+    <entry file="file://$PROJECT_DIR$/music/Katy Perry/396236.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40960452">
-          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+        <state vertical-scroll-proportion="-4.892857">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.214286">
+          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/example/page4dynamicmenu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26836157">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
           <folding />
         </state>
       </provider>
