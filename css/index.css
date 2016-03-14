@@ -90,5 +90,5 @@ body { background-color: #004f5e; background-image: -webkit-linear-gradient(180d
 }
 .page { text-align: left; padding-top: 10px; }
 .hidden { display: none; }
-#content,#footer{ background:none; border: none;}
-#header{ border: none;}
+#content, #footer { background: none; border: none; }
+#header { border: none; }
