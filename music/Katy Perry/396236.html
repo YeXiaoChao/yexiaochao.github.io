@@ -29,7 +29,10 @@
     <div>
         <p><span id="lb_MusicName">Katy Perry - E.T.mp3</span></p>
     </div>
-    <audio src="Teenage Dream/disc 01/08 - E.T.mp3"/>
+    <audio controls="controls">
+        <source src="Teenage Dream/disc 01/08 - E.T.mp3" type="audio/mpeg">
+        Your browser does not support the audio tag.
+    </audio>
 </div>
 
 
@@ -38,11 +41,5 @@
 </div>
 
 <script type="text/javascript" src="../../js/base.js"></script>
-<script src="../../plugin/audiojs-master/audiojs/audio.min.js"></script>
-<script>
-    audiojs.events.ready(function () {
-        var as = audiojs.createAll();
-    });
-</script>
 </body>
 </html>

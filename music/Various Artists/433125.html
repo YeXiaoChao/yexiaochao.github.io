@@ -24,12 +24,15 @@
 
 <div id="content" class="music_details">
     <div>
-        <img style="border-width:0px;" src="../../music/Various Artists/So Beautiful 1/433125.jpg" id="imgMusic">
+        <img  src="../../music/Various Artists/So Beautiful 1/433125.jpg" id="imgMusic">
     </div>
     <div>
         <p><span id="lb_MusicName">Various Artists - You’re Beautiful</span></p>
     </div>
-    <audio src="So Beautiful 1/01 - You’re Beautiful.mp3"/>
+    <audio controls="controls">
+        <source src="So Beautiful 1/01 - You’re Beautiful.mp3" type="audio/mpeg">
+        Your browser does not support the audio tag.
+    </audio>
 </div>
 
 
@@ -38,11 +41,5 @@
 </div>
 
 <script type="text/javascript" src="../../js/base.js"></script>
-<script src="../../plugin/audiojs-master/audiojs/audio.min.js"></script>
-<script>
-    audiojs.events.ready(function () {
-        var as = audiojs.createAll();
-    });
-</script>
 </body>
 </html>

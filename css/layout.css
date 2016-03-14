@@ -56,7 +56,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * -------------------------------------------------
 */
 /* html5 */
-article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary { display: block; }
+article, aside, details, figcaption, figure, footer, header, nav, section, summary { display: block; }
 audio, canvas, video { display: inline-block; *display: inline;
     *zoom: 1;
 }
@@ -96,12 +96,15 @@ sub { bottom: -0.25em; }
 #header .top_home { border-right: 1px solid #FFF; padding-right: 6px; margin-right: 2px; }
 .fleft { display: inline; float: left; margin-left: 10px; }
 .fright { display: inline; float: right; margin-right: 10px; }
-#content, #footer { max-width: 760px; margin: 50px auto; margin-bottom: 0; padding: 20px 20px 40px; background: #FFF; border: 1px solid #CCC; border-bottom: none; }
-
+#content{ max-width: 760px;margin: 0px auto; margin-top: 18px;width: auto;
+    background: #FFF; border: 1px solid #CCC; border-bottom: none; }
 #content h1 { margin: 0; color: #F60; }
 hr { border: none; height: 1px; line-height: 1px; background: #CCC; margin-bottom: 20px; padding: 0; }
 p { margin: 0; padding: 7px 0; }
-#footer { max-width: 780px; padding: 3px 10px; margin: 0px auto; border: 1px solid #CCC; border-top: none; overflow: hidden; margin-bottom: 18px; }
+#footer { max-width: 760px; width: auto;
+    margin: 0px auto;
+    border: 1px solid #CCC; border-top: none; overflow: hidden;
+    margin-bottom: 18px; }
 #footer .fleft, #footer .fleft a { font: bold 9px/20px Verdana, Geneva, sans-serif; color: #AAA; }
 #footer a { font-weight: bold; color: #AAA; text-decoration: underline; }
 #footer a:hover { color: #F80; }

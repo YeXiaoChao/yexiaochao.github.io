@@ -26,5 +26,4 @@
 #menu2 ul li.nav4 a span.over { background: #86dbf9; }
 #menu2 ul li.nav5 a span.over { background: #e0caf0; }
 #menu2 ul li.nav6 a span.over { background: #9dace9; }
-#content { max-width: 360px; }
-#footer { max-width: 380px; }
+#content,#footer { max-width: 360px; }
