@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ycdoit.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ycdoit.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/HeadPortrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/web.ico" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example.html" afterPath="$PROJECT_DIR$/example.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/music_player_by_jquery.html" afterPath="$PROJECT_DIR$/example/music_player_by_jquery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4dynamicmenu.html" afterPath="$PROJECT_DIR$/example/page4dynamicmenu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4filter.html" afterPath="$PROJECT_DIR$/example/page4filter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4middle_button.html" afterPath="$PROJECT_DIR$/example/page4middle_button.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4mobile.html" afterPath="$PROJECT_DIR$/example/page4mobile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4pc.html" afterPath="$PROJECT_DIR$/example/page4pc.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music.html" afterPath="$PROJECT_DIR$/music.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/Katy Perry/396236.html" afterPath="$PROJECT_DIR$/music/Katy Perry/396236.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/Various Artists/433125.html" afterPath="$PROJECT_DIR$/music/Various Artists/433125.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show4cnblogs/animated-menu.html" afterPath="$PROJECT_DIR$/show4cnblogs/animated-menu.html" />
     </list>
     <ignored path="yexiaochao.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.0357144">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="music_player_by_jquery.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/music_player_by_jquery.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,21 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="433125.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/music/Various Artists/433125.html">
+      <file leaf-file-name="music.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/music.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3772563">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.17148015">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animated-menu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/show4cnblogs/animated-menu.html">
+      <file leaf-file-name="433125.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/music/Various Artists/433125.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.392857">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <state vertical-scroll-proportion="-6.107143">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -121,6 +95,16 @@
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.75">
+              <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -195,7 +179,6 @@
         <option value="$PROJECT_DIR$/css/example/music_player_by_jquery.css" />
         <option value="$PROJECT_DIR$/js/example/music_player_by_jquery.js" />
         <option value="$PROJECT_DIR$/example.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/music.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/animated-menu.html" />
@@ -207,6 +190,7 @@
         <option value="$PROJECT_DIR$/example/music_player_by_jquery.html" />
         <option value="$PROJECT_DIR$/music/Katy Perry/396236.html" />
         <option value="$PROJECT_DIR$/music/Various Artists/433125.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -756,7 +740,7 @@
       <workItem from="1459249148886" duration="714000" />
       <workItem from="1462248469467" duration="101000" />
       <workItem from="1465286185821" duration="1094000" />
-      <workItem from="1465374404539" duration="3038000" />
+      <workItem from="1465374404539" duration="3108000" />
     </task>
     <task id="LOCAL-00001" summary="dd">
       <created>1457578983024</created>
@@ -920,11 +904,17 @@
       <option name="project" value="LOCAL" />
       <updated>1465377490260</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="update">
+      <created>1465378449837</created>
+      <option name="number" value="00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1465378449837</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35806000" />
+    <option name="totallyTimeSpent" value="35876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1262,22 +1252,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/music.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.392857">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.37931">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.0357144">
@@ -1356,8 +1330,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/music/Various Artists/433125.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3772563">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.107143">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.75">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17148015">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           <folding />
         </state>
       </provider>
