@@ -7,6 +7,11 @@
     <meta name="description" content="A simple example" />
     <title>Example</title>
     <link href="../img/ycdoit.ico" type="image/x-icon" rel="shortcut icon" />
+    <style>
+        table {margin: 10px;border-collapse: collapse; float: left;}
+        div{margin: 10px;}
+        td,th{padding: 4px;}
+    </style>
 </head>
 <body>
 <div>
@@ -14,26 +19,56 @@
     <button>cherries</button>
     <button>bananas</button>
 </div>
+<table id="events" border="1"></table>
 <div id="target">
     Press a button
 </div>
 
 <script type="application/javascript">
- var buttons = document.getElementsByTagName("button");
+    var buttons = document.getElementsByTagName("button");
     for(var i=0; i<buttons.length; i++){
         buttons[i].onclick = handleButtonPress;
     }
 
+        var httpRequest;
     function  handleButtonPress(e){
-        var httpRequest = new XMLHttpRequest();
+        clearEventDetails();
+        httpRequest = new XMLHttpRequest();
         httpRequest.onreadystatechange = handleResponse;
+
+        httpRequest.onerror = handleError;
+        httpRequest.onload = handleLoad;
+        httpRequest.onloadend = handleLoadEnd;
+        httpRequest.onloadstart = handleLoadStart;
+        httpRequest.onprogress = handleProgress;
+
         httpRequest.open("GET", e.target.innerHTML+".html");
         httpRequest.send();
     }
 
     function handleResponse(e){
+        displayEventDetails("readystate("+httpRequest.readyState+")");
         if(e.target.readyState == XMLHttpRequest.DONE && e.target.status == 200){
             document.getElementById("target").innerHTML = e.target.responseText;
+        }
+    }
+
+    function handleError(e){ displayEventDetails("error",e);}
+    function handleLoad(e){ displayEventDetails("load",e);}
+    function handleLoadEnd(e){ displayEventDetails("loadend",e);}
+    function handleLoadStart(e){ displayEventDetails("loadstart",e);}
+    function handleProgress(e){ displayEventDetails("progress",e);}
+
+    function clearEventDetails(){
+        document.getElementById("events").innerHTML = "<tr><th>Event</th><th>lengthComputable</th><th>loaded</th><th>total</th>";
+    }
+
+    function displayEventDetails(eventName,e){
+        if(e){
+            document.getElementById("events").innerHTML
+                    +="<tr><td>"+eventName+"</td><td>"+ e.lengthComputable+"</td><td>"+ e.loaded+"</td><td>"+ e.total+"</td></tr>";
+        }else {
+            document.getElementById("events").innerHTML += "<tr><td>"+eventName+"</td><td>NA</td><td>NA</td><td>NA</td></tr>";
         }
     }
 </script>
