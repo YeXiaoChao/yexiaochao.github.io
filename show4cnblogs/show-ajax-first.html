@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,user-scalable=no" name="viewport" />
+    <meta name="author" content="叶超Luka" />
+    <meta name="description" content="A simple example" />
+    <title>Example</title>
+    <link href="../img/ycdoit.ico" type="image/x-icon" rel="shortcut icon" />
+</head>
+<body>
+<div>
+    <button>Apples</button>
+    <button>Cherries</button>
+    <button>Bananas</button>
+</div>
+<div id="target">
+    Press a button
+</div>
+
+<script type="application/javascript">
+ var buttons = document.getElementsByTagName("button");
+    for(var i=0; i<buttons.length; i++){
+        buttons[i].onclick = handleButtonPress;
+    }
+
+    function  handleButtonPress(e){
+        var httpRequest = new XMLHttpRequest();
+        httpRequest.onreadystatechange = handleResponse;
+        httpRequest.open("GET", e.target.innerHTML+".html");
+        httpRequest.send();
+    }
+
+    function handleResponse(e){
+        if(e.target.readyState == XMLHttpRequest.DONE && e.target.status == 200){
+            document.getElementById("target").innerHTML = e.target.responseText;
+        }
+    }
+</script>
+</body>
+</html>
