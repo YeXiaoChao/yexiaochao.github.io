@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,user-scalable=no" name="viewport" />
+    <meta name="author" content="叶超Luka" />
+    <meta name="description" content="A simple example" />
+    <title>Example</title>
+    <link href="../img/ycdoit.ico" type="image/x-icon" rel="shortcut icon" />
+</head>
+<body>
+<div>
+    <button>apples</button>
+    <button>cherries</button>
+    <button>bananas</button>
+</div>
+<div id="target">Press a button</div>
+
+<script>
+    var buttons = document.getElementsByTagName("button");
+    for(var i = 0; i < buttons.length; i++){
+        buttons[i].onclick = handleButtonPress;
+    }
+
+    var httpRequest;
+
+    function handleButtonPress(e){
+        httpRequest = new XMLHttpRequest();
+        httpRequest.onreadystatechange = handleButtonPress;
+        httpRequest.open("GET","http://localhost:63342/yexiaochao.github.io/show4cnblogs/"+ e.target.innerHTML);
+        httpRequest.send();
+    }
+
+    function handleResponse(){
+        if(httpRequest.readyState == 4 && httpRequest.status == 200){
+            document.getElementById("target").innerHTML = httpRequest.responseText;
+        }
+    }
+</script>
+</body>
+</html>
