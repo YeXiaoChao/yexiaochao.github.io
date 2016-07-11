@@ -46,8 +46,11 @@
         }
         else
         {
-            document.body.scrollTop = top;
-            document.documentElement.scrollTop = top;
+            if(document.documentElement.scrollTop == 0){
+                document.body.scrollTop = top;
+            }else{
+                document.documentElement.scrollTop = top;
+            }
         }
     }
 };
