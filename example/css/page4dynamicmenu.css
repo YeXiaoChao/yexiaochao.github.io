@@ -11,10 +11,10 @@
     top: -45px; }
 /** 完整版示例 **/
 
-#menu { background: url('http://yexiaochao.github.io//img/example/bg_menu.gif') scroll 0 -1px repeat-x; border: 1px solid #CCC; }
+#menu { background: url('../img/bg_menu.gif') scroll 0 -1px repeat-x; border: 1px solid #CCC; }
 #menu ul li a { color: #000; }
 #menu ul li a span.over { color: #FFF; }
-#menu ul li span.bg { height: 45px; background: url('http://yexiaochao.github.io/img/example/bg_over.gif') center center no-repeat; }
+#menu ul li span.bg { height: 45px; background: url('../img/bg_over.gif') center center no-repeat; }
 /** 简化版示例 **/
 
 #menu2 { background: #45A8DF; }

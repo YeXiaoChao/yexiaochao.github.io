@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/img/page4top.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/css/page4top.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/js/page4top.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/page4top.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show4cnblogs/example.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show4cnblogs/show-ajax-css.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/example/music_player_by_jquery.css" afterPath="$PROJECT_DIR$/example/css/music_player_by_jquery.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/example/page4dynamicmenu.css" afterPath="$PROJECT_DIR$/example/css/page4dynamicmenu.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/example/page4filter.css" afterPath="$PROJECT_DIR$/example/css/page4filter.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/example/bg_menu.gif" afterPath="$PROJECT_DIR$/example/img/bg_menu.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/example/bg_over.gif" afterPath="$PROJECT_DIR$/example/img/bg_over.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/example/img-map.jpg" afterPath="$PROJECT_DIR$/example/img/img-map.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/example/img4filter.jpg" afterPath="$PROJECT_DIR$/example/img/img4filter.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/example/jaudio.js" afterPath="$PROJECT_DIR$/example/js/jaudio.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/example/jquery-2.1.4.min.js" afterPath="$PROJECT_DIR$/example/js/jquery-2.1.4.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/example/music_player_by_jquery.js" afterPath="$PROJECT_DIR$/example/js/music_player_by_jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/example/page4dynamicmenu.js" afterPath="$PROJECT_DIR$/example/js/page4dynamicmenu.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/example/page4pc.js" afterPath="$PROJECT_DIR$/example/js/page4pc.js" />
+    <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example.html" afterPath="$PROJECT_DIR$/example.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/music_player_by_jquery.html" afterPath="$PROJECT_DIR$/example/music_player_by_jquery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4dynamicmenu.html" afterPath="$PROJECT_DIR$/example/page4dynamicmenu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4filter.html" afterPath="$PROJECT_DIR$/example/page4filter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4pc.html" afterPath="$PROJECT_DIR$/example/page4pc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show4cnblogs/animated-menu.html" afterPath="$PROJECT_DIR$/show4cnblogs/animated-menu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show4cnblogs/img-map.html" afterPath="$PROJECT_DIR$/show4cnblogs/img-map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/css/page4dynamicmenu.css" afterPath="$PROJECT_DIR$/example/css/page4dynamicmenu.css" />
     </list>
     <ignored path="yexiaochao.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,11 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="example.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="example.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21348314">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state vertical-scroll-proportion="-9.5">
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page4dynamicmenu.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example/css/page4dynamicmenu.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.54873645">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -81,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/example/page4pcmoblie.css" />
         <option value="$PROJECT_DIR$/css/example/page4filter.css" />
         <option value="$PROJECT_DIR$/js/example.js" />
         <option value="$PROJECT_DIR$/css/example/layout.css" />
@@ -132,6 +117,7 @@
         <option value="$PROJECT_DIR$/example.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/example.html" />
         <option value="$PROJECT_DIR$/example/js/page4top.js" />
+        <option value="$PROJECT_DIR$/example/css/page4dynamicmenu.css" />
       </list>
     </option>
   </component>
@@ -214,7 +200,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -729,7 +733,7 @@
       <workItem from="1467684437083" duration="8301000" />
       <workItem from="1467777776547" duration="6307000" />
       <workItem from="1467858566576" duration="5695000" />
-      <workItem from="1468233319769" duration="4452000" />
+      <workItem from="1468233319769" duration="4627000" />
     </task>
     <task id="LOCAL-00001" summary="dd">
       <created>1457578983024</created>
@@ -953,11 +957,17 @@
       <option name="project" value="LOCAL" />
       <updated>1467710821677</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="update">
+      <created>1468237798266</created>
+      <option name="number" value="00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1468237798266</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111305000" />
+    <option name="totallyTimeSpent" value="111480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -965,7 +975,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1238,14 +1248,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/css/page4dynamicmenu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.214286">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example/js/jaudio.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1380,8 +1382,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21348314">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state vertical-scroll-proportion="-9.5">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/css/page4dynamicmenu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54873645">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
           <folding />
         </state>
       </provider>
