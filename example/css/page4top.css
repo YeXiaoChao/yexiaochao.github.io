@@ -6,16 +6,17 @@
     margin: auto;
 }
 .btnTop{
-    width:40px;
-    height: 80px;
+    width:34px;
+    height: 34px;
     position:fixed;
     bottom: 10px;
-    background-color: red;
-    left:90%;
+    background: url('../img/gotop.jpg') no-repeat scroll 0 0 / 34px 103px;
+    right:0;
+    margin-right: 6px;
 }
 
 .btnTop:hover{
-    background-color: green;
+    background: url('../img/gotop_hover.jpg') no-repeat scroll 0 0 / 34px 103px;
 }
 .hide{
     display: none;;
