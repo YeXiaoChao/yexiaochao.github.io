@@ -1,55 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <title>Example</title>
-    <style>
-        .table{display: table;}
-        .row{display: table-row;}
-        .cell{display: table-cell;padding: 5px;}
-        .lable{text-align: right;}
-    </style>
 </head>
 <body>
-<form id="fruitform" method="post" action="http://127.0.0.1:8080/form">
-<div class="table">
-    <div class="row">
-        <div class="cell lable">Apples:</div>
-        <div class="cell"><input name="apples" value="5" /></div>
-    </div>
-    <div class="row">
-        <div class="cell lable">Bananas:</div>
-        <div class="cell"><input name="bananas" value="2" /></div>
-    </div>
-    <div class="row">
-        <div class="cell lable">Cherries:</div>
-        <div class="cell"><input name="cherries" value="20" /></div>
-    </div>
-    <div class="row">
-        <div class="cell lable">Total:</div>
-        <div id="results" class="cell">0 items</div>
-    </div>
-</div>
-    <button id="submit" type="submit">Submit Form</button>
-</form>
+<p id="sentence">
+    <img src="imgs/apple.png" alt="apple" />
+</p>
 <script>
-    document.getElementById("submit").onclick = handleButtonPress;
-
-    var httpRequest;
-    function handleButtonPress(e){
-        e.preventDefault();
-        var form = document.getElementById("fruitform");
-        var formData = new FormData(form);
-        httpRequest = new XMLHttpRequest();
-        httpRequest.onreadystatechange = handleResponse;
-        httpRequest.open("POST",form.action);
-        httpRequest.send(formData);
+    var images;
+    if(document.querySelectorAll){
+        images = document.querySelectorAll("#sentence > img");
+    }else{
+        images = document.getElementById("sentence").getElementsByTagName("img");
     }
 
-    function handleResponse(){
-        if(httpRequest.readyState == 4 && httpRequest.status == 200){
-            document.getElementById("results").innerHTML = httpRequest.responseText;
-        }
+    for (var i = 0; i < images.length; i++){
+        images[i].style.border = "thick solid black";
+        images[i].style.padding = "4px";
     }
 </script>
 </body>
