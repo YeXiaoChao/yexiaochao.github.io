@@ -7,7 +7,7 @@ html { height: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
 body { margin: 0; padding: 0; background-color: #fff; min-height: 100%; height: auto !important; height: 100%; text-align: center; color: #404040; font: 12px/1.5 Helvetica, arial; }
 h1, h2, h3, h4, h5, h6, p, figure, form { margin: 0; }
 table { border-collapse: collapse; border-spacing: 0; }
-img { border: 0; vertical-align: middle; -ms-interpolation-mode: bicubic; }
+img { border: 0; vertical-align: middle; -ms-interpolation-mode: bicubic;max-width: 100%; }
 a { text-decoration: none; color: #29B4F0; }
 a:focus { outline: thin dotted; }
 a:hover { color: #017CB9; text-decoration: underline; }
