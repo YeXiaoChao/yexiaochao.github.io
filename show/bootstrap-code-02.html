@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>作品展示站点</title>
+    <meta name="description" content="【读书笔记《Bootstrap 实战》】2.作品展示站点">
+    <meta name="viewport" content="width=device-width">
+    <link href="../img/ycdoit.ico" type="image/x-icon" rel="shortcut icon" />
+    <!-- Main Style Sheet -->
+    <link rel="stylesheet" href="css/main.css">
+    <!-- Modernizr -->
+    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    <!-- Respond.js for IE 8 or less only -->
+    <!--[if (lt IE 9) & (!IEMobile)]>
+            <script src="js/vendor/respond.min.js"></script>
+        <![endif]-->
+</head>
+<body>
+    <!--[if lte IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+    <header role="banner">
+        <nav role="navigation" class="navbar navbar-default">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="bootstrap-code-02.html">
+                        <img src="img/logo.png" alt="Bootstrap'" width="120" />
+                    </a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active">
+                            <a href="index.html"><span class="icon fa fa-home"></span>Home</a>
+                        </li>
+                        <li><a href="#"><span class="icon fa fa-desktop"></span>Portfolio</a></li>
+                        <li><a href="#"><span class="icon fa fa-group"></span>Team</a></li>
+                        <li><a href="#"><span class="icon fa fa-envelope"></span>Contact</a></li>
+                    </ul>
+                </div>
+                <!--/.nav-collapse -->
+            </div>
+            <!--/.container -->
+        </nav>
+    </header>
+    <div role="main">
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <picture>
+                        <source srcset="img/okwu.jpg" media="(min-width:640px)" />
+                        <img srcset="img/okwu-sm.jpg" alt="OKWU.edu Homepage" />
+                    </picture>
+                </div>
+                <div class="item">
+                    <picture>
+                        <source srcset="img/okwu-athletics.jpg" media="(min-width:640px)" />
+                        <img srcset="img/okwu-athletics-sm.jpg" alt="OKWU Athletics Homepage" />
+                    </picture>
+                </div>
+                <div class="item">
+                    <picture>
+                        <source srcset="img/bartlesvillecf.jpg" media="(min-width:640px)" />
+                        <img srcset="img/bartlesvillecf-sm.jpg" alt="Bartlesville Community Foundation" />
+                    </picture>
+                </div>
+                <div class="item">
+                    <picture>
+                        <source srcset="img/emancipation.jpg" media="(min-width:640px)" />
+                        <img srcset="img/emancipation-sm.jpg" alt="Emancipation Stories" />
+                    </picture>
+                </div>
+            </div>
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                <span class="icon fa fa-chevron-left"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                <span class="icon fa fa-chevron-right"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+
+        <div class="container page-contents">
+            <div class="row">
+                <div class="col-sm-4 clearfix">
+                    <h2>Welcome!</h2>
+                    <p>Suspendisse et arcu felis, ac gravida turpis. Suspendisse potenti. Ut porta rhoncus ligula, sed fringilla felis feugiat eget. In non purus quis elit iaculis tincidunt. Donec at ultrices est.</p>
+                    <p>
+                        <a href="#" class="btn btn-primary pull-right">See our portfolio
+                        <span class="icon fa fa-arrow-circle-right"></span>
+                        </a>
+                    </p>
+                </div>
+                <div class="col-sm-4 clearfix">
+                    <h2>Recent Updates</h2>
+                    <p>Suspendisse et arcu felis, ac gravida turpis. Suspendisse potenti. Ut porta rhoncus ligula, sed fringilla felis feugiat eget. In non purus quis elit iaculis tincidunt. Donec at ultrices est.</p>
+                    <p><a href="#" class="btn btn-primary pull-right">See what's new! <span class="icon fa fa-arrow-circle-right"></span></a></p>
+                </div>
+                <div class="col-sm-4 clearfix">
+                    <h2>Our Team</h2>
+                    <p>Suspendisse et arcu felis, ac gravida turpis. Suspendisse potenti. Ut porta rhoncus ligula, sed fringilla felis feugiat eget. In non purus quis elit iaculis tincidunt. Donec at ultrices est.</p>
+                    <p><a href="#" class="btn btn-primary pull-right">Meet the team! <span class="icon fa fa-arrow-circle-right"></span></a></p>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+    <footer role="contentinfo">
+        <p>
+            <a href="index.html">
+                <img src="img/logo.png" width="80" alt="Bootstrappin&#39;"></a>
+        </p>
+        <ul class="social">
+            <li><a href="#" title="Twitter Profile"><span class="icon fa fa-twitter"></span></a></li>
+            <li><a href="#" title="Facebook Page"><span class="icon fa fa-facebook"></span></a></li>
+            <li><a href="#" title="LinkedIn Profile"><span class="icon fa fa-linkedin"></span></a></li>
+            <li><a href="#" title="Google+ Profile"><span class="icon fa fa-google-plus"></span></a></li>
+            <li><a href="#" title="GitHub Profile"><span class="icon fa fa-github-alt"></span></a></li>
+        </ul>
+    </footer>
+    <script src="js/vendor/jquery-1.10.2.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+    <script src="../js/outer_line/tongji4blogluka.js"></script>
+</body>
+</html>

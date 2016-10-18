@@ -1,0 +1,367 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>电子商务网站</title>
+    <meta name="description" content="【读书笔记《Bootstrap 实战》】5.电子商务网站">
+    <meta name="viewport" content="width=device-width">
+    <link href="../img/ycdoit.ico" type="image/x-icon" rel="shortcut icon" />
+    <!-- Main Style Sheet -->
+    <link rel="stylesheet" href="css/main-5.css">
+    <!-- Modernizr -->
+    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    <!-- Respond.js for IE 8 or less only -->
+    <!--[if (lt IE 9) & (!IEMobile)]>
+            <script src="js/vendor/respond.min.js"></script>
+        <![endif]-->
+</head>
+<body>
+    <!--[if lte IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+    <header role="banner">
+        <div class="container">
+            <a class="banner-brand visible-md visible-lg" href="bootstrap-code-04.html">
+                <img src="img/logo.png" alt="Bootstrap'" width="180" />
+            </a>
+            <div class="utility-nav">
+                <ul>
+                    <li><a href="javascript:;" title="Login or Register"><i class="icon fa fa-user fa-lg"></i><span>Log In or Register</span></a></li>
+                    <li><a href="javascript:;" title="View Cart"><i class="icon fa fa-shopping-cart fa-lg"></i><span>View Cart</span></a></li>
+                </ul>
+            </div>
+        </div>
+        <nav role="navigation" class="navbar navbar-default">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand visible-xs visible-sm" href="javascript:;">
+                        <img src="img/logo.png" alt="Bootstrap'" width="120" />
+                    </a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown">Shoes <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a href="javascript:;">Action</a></li>
+                                <li><a href="javascript:;">Another action</a></li>
+                                <li><a href="javascript:;">Something else here</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">Separated link</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">One more separated link</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown">Clothing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="javascript:;">Action</a></li>
+                                <li><a href="javascript:;">Another action</a></li>
+                                <li><a href="javascript:;">Something else here</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">Separated link</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">One more separated link</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown">Accessories <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="javascript:;">Action</a></li>
+                                <li><a href="javascript:;">Another action</a></li>
+                                <li><a href="javascript:;">Something else here</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">Separated link</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">One more separated link</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown">Men <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="javascript:;">Action</a></li>
+                                <li><a href="javascript:;">Another action</a></li>
+                                <li><a href="javascript:;">Something else here</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">Separated link</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">One more separated link</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown">Women <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="javascript:;">Action</a></li>
+                                <li><a href="javascript:;">Another action</a></li>
+                                <li><a href="javascript:;">Something else here</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">Separated link</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">One more separated link</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown">Kids <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="javascript:;">Action</a></li>
+                                <li><a href="javascript:;">Another action</a></li>
+                                <li><a href="javascript:;">Something else here</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">Separated link</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">One more separated link</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown">All Departments <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="javascript:;">Action</a></li>
+                                <li><a href="javascript:;">Another action</a></li>
+                                <li><a href="javascript:;">Something else here</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">Separated link</a></li>
+                                <li class="divider"></li>
+                                <li><a href="javascript:;">One more separated link</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <!--/.nav-collapse -->
+            </div>
+            <!--/.container -->
+        </nav>
+    </header>
+
+    <div role="main">
+        <div class="container">
+            <ol class="breadcrumb">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Parent Category</a></li>
+                <li class="active">Current Category</li>
+            </ol>
+
+            <div class="page-header">
+                <h1>Product Category Name <small>with explanatory text</small></h1>
+            </div>
+
+            <div class="row">
+                <div class="grid-options col-sm-3">
+                     <h2 class="clearfix">Narrow your selection
+                         <button type="button" class="options-panel-toggle btn btn-primary pull-right" data-toggle="collapse" data-target="#options-panel">
+                             <span class="icon fa fa-cog fa-2x"></span>
+                         </button>
+                     </h2>
+                    <div id="options-panel" class="options-panel collapse">
+                        <a class="btn btn-feature choose-clearance" href="#">
+                            <span class="icon fa fa-tag fa-3x"></span>
+                            <h3>Clearance Sale</h3>
+                            <p>View clearance items</p>
+                        </a>
+                        <h3>Categories</h3>
+                        <ul class="options-list options-categories">
+                            <li><a href="#">Option 1</a></li>
+                            <li><a href="#">Option 2</a></li>
+                            <li><a href="#">Option 3</a></li>
+                            <li><a href="#">Option 4</a></li>
+                            <li><a href="#">Option 5</a></li>
+                            <li><a href="#">Option 6</a></li>
+                            <li><a href="#">Option 7</a></li>
+                            <li><a href="#">Option 8</a></li>
+                            <li><a href="#">Option 9</a></li>
+                            <li><a href="#">Option 10</a></li>
+                        </ul>
+                        <h3>Brands</h3>
+                        <ul class="options-list options-brands">
+                            <li><a href="#">Option 1</a></li>
+                            <li><a href="#">Option 2</a></li>
+                            <li><a href="#">Option 3</a></li>
+                            <li><a href="#">Option 4</a></li>
+                            <li><a href="#">Option 5</a></li>
+                            <li><a href="#">Option 6</a></li>
+                            <li><a href="#">Option 7</a></li>
+                            <li><a href="#">Option 8</a></li>
+                            <li><a href="#">Option 9</a></li>
+                            <li><a href="#">Option 10</a></li>
+                        </ul>
+                        <h3>Another Filter</h3>
+                        <ul class="options-list options-other">
+                            <li><a href="#">Option 1</a></li>
+                            <li><a href="#">Option 2</a></li>
+                            <li><a href="#">Option 3</a></li>
+                            <li><a href="#">Option 4</a></li>
+                            <li><a href="#">Option 5</a></li>
+                            <li><a href="#">Option 6</a></li>
+                            <li><a href="#">Option 7</a></li>
+                            <li><a href="#">Option 8</a></li>
+                            <li><a href="#">Option 9</a></li>
+                            <li><a href="#">Option 10</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- /.products-grid-options -->
+                <div class="products-grid col-sm-9">
+                    <div class="row">
+                        <div class="product-item col-xs-6 col-md-4">
+                            <a href="#">
+                                <img src="img/product.png" alt="sample product" /></a>
+                            <h2><a href="#">Product Title</a></h2>
+                            <p>This text describes the above product a little not too much but just enough or maybe a little more</p>
+                            <a class="btn btn-default btn-xs pull-right" href="#">View this product <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                        <div class="product-item col-xs-6 col-md-4">
+                            <a href="#">
+                                <img src="img/product.png" alt="sample product" /></a>
+                            <h2><a href="#">Longer Product Title</a></h2>
+                            <p>This text describes the above product a little not too much</p>
+                            <a class="btn btn-default btn-xs pull-right" href="#">View this product <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                        <div class="product-item col-xs-6 col-md-4">
+                            <a href="#">
+                                <img src="img/product.png" alt="sample product" /></a>
+                            <h2><a href="#">Even Longer Product Title</a></h2>
+                            <p>This text describes the above product a little not too much but just enough -- or maybe we'll go on even longer on this one just because it's fun and, well, this product just really deserves it!</p>
+                            <a class="btn btn-default btn-xs pull-right" href="#">View this product <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                        <div class="product-item col-xs-6 col-md-4">
+                            <a href="#">
+                                <img src="img/product.png" alt="sample product" /></a>
+                            <h2><a href="#">Exceptional Product Title</a></h2>
+                            <p>This text describes the above product a little not too much but just enough</p>
+                            <a class="btn btn-default btn-xs pull-right" href="#">View this product <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                        <div class="product-item col-xs-6 col-md-4">
+                            <a href="#">
+                                <img src="img/product.png" alt="sample product" /></a>
+                            <h2><a href="#">Even Longer Product Title</a></h2>
+                            <p>This text describes the above product a little not too much but just enough -- or maybe we'll go on even longer on this one just because it's fun and, well, this product just really deserves it!</p>
+                            <a class="btn btn-default btn-xs pull-right" href="#">View this product <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                        <div class="product-item col-xs-6 col-md-4">
+                            <a href="#">
+                                <img src="img/product.png" alt="sample product" /></a>
+                            <h2><a href="#">Product Title</a></h2>
+                            <p>This text describes the above product a little not too much but just enough or maybe a little more</p>
+                            <a class="btn btn-default btn-xs pull-right" href="#">View this product <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                        <div class="product-item col-xs-6 col-md-4">
+                            <a href="#">
+                                <img src="img/product.png" alt="sample product" /></a>
+                            <h2><a href="#">Longer Product Title</a></h2>
+                            <p>This text describes the above product a little not too much</p>
+                            <a class="btn btn-default btn-xs pull-right" href="#">View this product <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                        <div class="product-item col-xs-6 col-md-4">
+                            <a href="#">
+                                <img src="img/product.png" alt="sample product" /></a>
+                            <h2><a href="#">Even Longer Product Title</a></h2>
+                            <p>This text describes the above product a little not too much but just enough -- or maybe we'll go on even longer on this one just because it's fun and, well, this product just really deserves it!</p>
+                            <a class="btn btn-default btn-xs pull-right" href="#">View this product <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                        <div class="product-item col-xs-6 col-md-4">
+                            <a href="#">
+                                <img src="img/product.png" alt="sample product" /></a>
+                            <h2><a href="#">Product Title</a></h2>
+                            <p>This text describes the above product a little not too much but just enough or maybe a little more</p>
+                            <a class="btn btn-default btn-xs pull-right" href="#">View this product <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- /.row -->
+
+                    <nav>
+                        <ul class="pagination">
+                            <li class="disabled"><a href="#">&laquo;</a></li>
+                            <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
+                            <li><a href="#">2</a></li>
+                            <li><a href="#">3</a></li>
+                            <li><a href="#">4</a></li>
+                            <li><a href="#">5</a></li>
+                            <li><a href="#">&raquo;</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <!-- /.products-grid -->
+            </div>
+            <!-- /.row -->
+        </div>
+    </div>
+
+    <footer role="contentinfo">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2 col-xs-6 col-md-4">
+                    <h3>Categories</h3>
+                    <ul>
+                        <li><a href="javascript:;">Shoes</a></li>
+                        <li><a href="javascript:;">Clothing</a></li>
+                        <li><a href="javascript:;">Accessories</a></li>
+                        <li><a href="javascript:;">Men</a></li>
+                        <li><a href="javascript:;">Women</a></li>
+                        <li><a href="javascript:;">Kids</a></li>
+                        <li><a href="javascript:;">Pets</a></li>
+                    </ul>
+
+                </div>
+                <div class="col-md-2 col-xs-6 col-md-4">
+                    <h3>Styles</h3>
+                    <ul>
+                        <li><a href="javascript:;">Athletic</a>  </li>
+                        <li><a href="javascript:;">Casual</a></li>
+                        <li><a href="javascript:;">Dress</a></li>
+                        <li><a href="javascript:;">Everyday</a></li>
+                        <li><a href="javascript:;">Other Days</a></li>
+                        <li><a href="javascript:;">Alternative</a></li>
+                        <li><a href="javascript:;">Otherwise</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-2 col-xs-6 col-md-4">
+                    <h3>Other</h3>
+                    <ul>
+                        <li><a href="javascript:;">Link</a></li>
+                        <li><a href="javascript:;">Another link</a></li>
+                        <li><a href="javascript:;">Link again</a></li>
+                        <li><a href="javascript:;">Try this</a></li>
+                        <li><a href="javascript:;">Don't you dare</a></li>
+                        <li><a href="javascript:;">Oh go ahead</a></li>
+                    </ul>
+                </div>
+                <div class="about col-md-6 col-sm-12">
+                    <h3>About Us</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse euismod congue bibendum. Aliquam erat volutpat. Phasellus eget justo lacus. Vivamus pharetra ullamcorper massa, nec ultricies metus gravida egestas. Duis congue viverra arcu, ac aliquet turpis rutrum a. Donec semper vestibulum dapibus. Integer et sollicitudin metus. Vivamus at nisi turpis. Phasellus vel tellus id felis cursus hendrerit.</p>
+                    <a class="btn btn-default btn-xs pull-right" href="javascript:;">Learn more <span class="fa fa-circle-arrow-right"></span></a>
+                </div>
+            </div>
+
+            <ul class="social">
+                <li><a href="javascript:;" title="Twitter Profile"><span class="icon fa fa-twitter"></span></a></li>
+                <li><a href="javascript:;" title="Facebook Page"><span class="icon fa fa-facebook"></span></a></li>
+                <li><a href="javascript:;" title="LinkedIn Profile"><span class="icon fa fa-linkedin"></span></a></li>
+                <li><a href="javascript:;" title="Google+ Profile"><span class="icon fa fa-google-plus"></span></a></li>
+                <li><a href="javascript:;" title="GitHub Profile"><span class="icon fa fa-github-alt"></span></a></li>
+            </ul>
+
+            <p class="footer-brand">
+                <a href="bootstrap-code-05.html">
+                    <img src="img/logo.png" width="80" alt="Bootstrappin'"></a>
+            </p>
+        </div>
+    </footer>
+    <script src="js/vendor/jquery-1.10.2.min.js"></script>
+    <script src="js/plugins_five.js"></script>
+    <script src="js/main_five.js"></script>
+    <script src="../js/outer_line/tongji4blogluka.js"></script>
+</body>
+</html>
