@@ -11,12 +11,12 @@
     fileref2.setAttribute("content", "ie=edge");
     document.getElementsByTagName("head")[0].appendChild(fileref2);
     var fileref3 = document.createElement('meta');
-    fileref3.setAttribute("name", "description");
-    fileref3.setAttribute("content", "叶超Luka's Blog");
+    fileref3.setAttribute("name", "keywords");
+    fileref3.setAttribute("content", "叶超Luka,叶超Luka,叶超Luka's Blog,叶小超,Web,Web前端,Android");
     document.getElementsByTagName("head")[0].appendChild(fileref3);
     var fileref4 = document.createElement('meta');
-    fileref4.setAttribute("name", "keywords");
-    fileref4.setAttribute("content", "叶超Luka,叶超Luka's Blog,叶小超,叶超,Luka");
+    fileref4.setAttribute("name", "description");
+    fileref4.setAttribute("content", "This is 叶超Luka's Blog");
     document.getElementsByTagName("head")[0].appendChild(fileref4);
     //delete element
     $('#blogTitle').remove();
