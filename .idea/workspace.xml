@@ -1,179 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/Saint-Malo-Sunset-Nicolas-Raymond-Freestock.ca_1600x1060.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/bartlesvillecf-sm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/bartlesvillecf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/emancipation-sm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/emancipation.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/okwu-athletics-sm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/okwu-athletics.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/okwu-sm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/okwu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/photo-by-josh-howard-subway-1600x1060.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/product.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/smiling1-by-RomainGuy-600x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/smiling2-by-Christopher-Connell-600x400.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/smiling3-by-BerkDDemir-600x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/smiling4-by-Trung-Hieu-600x400.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/smiling5-by-Ali-Burcin-Titizel-600x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/smiling6-by-Keith-Williamson-600x400.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/smiling7-by-Victor1558-600x400.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/subway-1600x1060.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/img/subway-906x600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/bootstrap-code-02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/bootstrap-code-04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/bootstrap-code-05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/bootstrap-code-06.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/css/main-5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/css/main-6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/css/main_four.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/phantom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/unit/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/vendor/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tests/vendor/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/bootstrap/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/jquery.touchSwipe.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/main_five.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/main_six.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/plugins_five.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/plugins_four.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/plugins_six.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/vendor/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/vendor/modernizr-2.6.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/vendor/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/js/yc_blog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/__main.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/_banner.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/_buttons-custom.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/_carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/_footer.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/_navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/_page-content.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/_product-grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/_variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/background-variant.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/border-radius.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/center-block.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/clearfix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/gradients.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/grid-framework.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/hide-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/image.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/nav-divider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/nav-vertical-align.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/opacity.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/progress-bar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/reset-filter.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/reset-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/resize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/responsive-visibility.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/tab-focus.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/table-row.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/text-emphasis.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/text-overflow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/mixins/vendor-prefixes.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/responsive-embed.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/bootstrap/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/font-awesome/variables.less" />
+    <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/less/_pricing-tables.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show/bootstrap-code-06.html" afterPath="$PROJECT_DIR$/show/bootstrap-code-06.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show/css/main-6.css" afterPath="$PROJECT_DIR$/show/css/main-6.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show/js/plugins_six.js" afterPath="$PROJECT_DIR$/show/js/plugins_six.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show/js/yc_blog.js" afterPath="$PROJECT_DIR$/show/js/yc_blog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show/less/__main.less" afterPath="$PROJECT_DIR$/show/less/__main.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show/less/_page-content.less" afterPath="$PROJECT_DIR$/show/less/_page-content.less" />
     </list>
     <ignored path="yexiaochao.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -195,24 +31,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bootstrap-code-06.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bootstrap-code-06.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/show/bootstrap-code-06.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16036037">
-              <caret line="99" column="57" selection-start-line="99" selection-start-column="57" selection-end-line="99" selection-end-column="57" />
+            <state vertical-scroll-proportion="-8.25">
+              <caret line="171" column="51" selection-start-line="171" selection-start-column="15" selection-end-line="171" selection-end-column="51" />
               <folding>
-                <marker date="1476782785846" expanded="true" signature="977:1229" placeholder="..." />
-                <marker date="1476782785846" expanded="true" signature="1070:1098" placeholder="..." />
+                <marker date="1476868587408" expanded="true" signature="977:1229" placeholder="..." />
+                <marker date="1476868587408" expanded="true" signature="1070:1098" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_page-content.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/show/less/_page-content.less">
+      <file leaf-file-name="yc_blog.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/show/js/yc_blog.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="98" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.48969072">
+              <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_variables.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/show/less/_variables.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.965517">
+              <caret line="134" column="39" selection-start-line="134" selection-start-column="33" selection-end-line="134" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_pricing-tables.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/show/less/_pricing-tables.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -224,8 +80,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -240,11 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/example/music_player.html" />
-        <option value="$PROJECT_DIR$/css/example/music_player.css" />
-        <option value="$PROJECT_DIR$/js/example/jaudio.js" />
-        <option value="$PROJECT_DIR$/js/example/jquery-2.1.4.min.js" />
-        <option value="$PROJECT_DIR$/css/example/music_player_by_jquery.css" />
         <option value="$PROJECT_DIR$/js/example/music_player_by_jquery.js" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/animated-menu.html" />
@@ -289,8 +140,13 @@
         <option value="$PROJECT_DIR$/show/bootstrap-code-05.html" />
         <option value="$PROJECT_DIR$/show/bootstrap-code-02.html" />
         <option value="$PROJECT_DIR$/show/less/_buttons-custom.less" />
+        <option value="$PROJECT_DIR$/show/js/masonry.pkgd.min.js" />
+        <option value="$PROJECT_DIR$/show/js/plugins_six.js" />
         <option value="$PROJECT_DIR$/show/less/_page-content.less" />
         <option value="$PROJECT_DIR$/show/bootstrap-code-06.html" />
+        <option value="$PROJECT_DIR$/show/less/_variables.less" />
+        <option value="$PROJECT_DIR$/show/less/__main.less" />
+        <option value="$PROJECT_DIR$/show/js/yc_blog.js" />
       </list>
     </option>
   </component>
@@ -337,6 +193,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -401,11 +259,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="show" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="show" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -961,13 +853,8 @@
       <workItem from="1475898465351" duration="1192000" />
       <workItem from="1475901567810" duration="467000" />
       <workItem from="1476757801364" duration="13144000" />
-      <workItem from="1476793169731" duration="154000" />
-    </task>
-    <task id="LOCAL-00004" summary="update">
-      <created>1457583766252</created>
-      <option name="number" value="00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1457583766252</updated>
+      <workItem from="1476793169731" duration="870000" />
+      <workItem from="1476842771933" duration="15057000" />
     </task>
     <task id="LOCAL-00005" summary="update">
       <created>1457591290783</created>
@@ -1257,11 +1144,17 @@
       <option name="project" value="LOCAL" />
       <updated>1476792936934</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="update">
+      <created>1476793418068</created>
+      <option name="number" value="00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1476793418068</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273065000" />
+    <option name="totallyTimeSpent" value="288838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1318,59 +1211,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/show4cnblogs/img-map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/show4cnblogs/geolocation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/show4cnblogs/animated-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/show4cnblogs/img-map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/show4cnblogs/animated-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/show4cnblogs/img-map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/show4cnblogs/animated-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/show4cnblogs/img-map.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1653,6 +1493,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1660,25 +1501,82 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.0357144">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show/css/main-6.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="89.57143">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show/less/_product-grid.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.245045">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show/js/plugins_six.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.93153155">
+          <caret line="41" column="23465" selection-start-line="41" selection-start-column="23465" selection-end-line="41" selection-end-column="23465" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show/less/_variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.965517">
+          <caret line="134" column="39" selection-start-line="134" selection-start-column="33" selection-end-line="134" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show/less/__main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79422385">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/show/less/_page-content.less">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24729241">
+          <caret line="198" column="0" selection-start-line="198" selection-start-column="0" selection-end-line="203" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show/less/_pricing-tables.less">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="98" selection-end-column="5" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/show/bootstrap-code-06.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16036037">
-          <caret line="99" column="57" selection-start-line="99" selection-start-column="57" selection-end-line="99" selection-end-column="57" />
+        <state vertical-scroll-proportion="-8.25">
+          <caret line="171" column="51" selection-start-line="171" selection-start-column="15" selection-end-line="171" selection-end-column="51" />
           <folding>
-            <marker date="1476782785846" expanded="true" signature="977:1229" placeholder="..." />
-            <marker date="1476782785846" expanded="true" signature="1070:1098" placeholder="..." />
+            <marker date="1476868587408" expanded="true" signature="977:1229" placeholder="..." />
+            <marker date="1476868587408" expanded="true" signature="1070:1098" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show/js/yc_blog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48969072">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -14,6 +14,10 @@
     fileref3.setAttribute("name", "description");
     fileref3.setAttribute("content", "叶超Luka's Blog");
     document.getElementsByTagName("head")[0].appendChild(fileref3);
+    var fileref4 = document.createElement('meta');
+    fileref4.setAttribute("name", "keywords");
+    fileref4.setAttribute("content", "叶超Luka,叶超Luka's Blog,叶小超,叶超,Luka");
+    document.getElementsByTagName("head")[0].appendChild(fileref4);
     //delete element
     $('#blogTitle').remove();
     $('.blogStats').remove();

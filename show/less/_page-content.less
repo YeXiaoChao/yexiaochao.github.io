@@ -3,33 +3,36 @@
 // ----------------------------
 
 .page-contents {
-  padding-top:20px; //上边距
-  padding-bottom:40px; //下边距
+  padding-top: 20px; //上边距
+  padding-bottom: 40px; //下边距
 }
+
 .content-primary {
-  font-size:@font-size-large;
+  font-size: @font-size-large;
 }
+
 .content-tertiary {
-  font-size:@font-size-small;
+  font-size: @font-size-small;
 }
-div[role="main"]{ 
+
+div[role="main"] {
   padding-top: 20px;
   padding-bottom: 40px;
-  [class*="col-"]{
-    h1,h2,h3,h4 {
-	  clear: both;  //清除浮动
-	  padding-top: 20px;
-	  &:first-child { //首项对齐
-	    margin-top: 0;
-		padding-top:0;
-	  }
-	}
+  [class*="col-"] {
+    h1, h2, h3, h4 {
+      clear: both; //清除浮动
+      padding-top: 20px;
+      &:first-child { //首项对齐
+        margin-top: 0;
+        padding-top: 0;
+      }
+    }
   }
   //Make columns clear floats in narrow viewport single-colomn layout
-  @media (max-width: @screen-sm-min){
-     [class*="col-"]{
-	   clear: both;
-	 }
+  @media (max-width: @screen-sm-min) {
+    [class*="col-"] {
+      clear: both;
+    }
   }
 }
 
@@ -39,7 +42,7 @@ div[role="main"]{
   color: #fff;
   position: relative;
   .welcome-message {
-    background-color: hsla(0,0,1%,0.4);
+    background-color: hsla(0, 0, 1%, 0.4);
     position: absolute;
     top: 0;
     bottom: 0;
@@ -62,6 +65,7 @@ div[role="main"]{
     .container {
       position: relative;
     }
+
     .welcome-message {
       right: 20%;
       bottom: auto;
@@ -73,7 +77,7 @@ div[role="main"]{
   @media (min-width: @screen-md-min) {
     height: 540px;
     background: #191919 url('../img/subway-1600x1060.jpg') center center no-repeat;
-    -webkit-background-size:cover;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
@@ -93,9 +97,123 @@ div[role="main"]{
     .icon {
       font-size: 90px;
     }
-    @media (max-width:@screen-xs-max){
+    @media (max-width: @screen-xs-max) {
       max-width: 320px;
       .center-block();
+    }
+  }
+}
+
+// Impact Section
+#impact {
+  .hreview {
+    position: relative;
+    padding: 0 10px;
+    border: none;
+  }
+  .caption {
+    position: absolute;
+    top: auto;
+    left: 10px;
+    right: 10px;
+    bottom: 0;
+    line-height: 1.1;
+    background: hsla(0, 0, 10%, 0.55);
+    blockquote,
+    .reviewer {
+      margin: 0 6px;
+      padding: 0;
+    }
+    blockquote {
+      margin-top: 4px;
+      border: none;
+      font-family: @font-family-serif;
+      font-size: @font-size-large;
+      color: #fff;
+    }
+    .reviewer {
+      margin-top: 2px;
+      margin-bottom: 4px;
+      text-align: right;
+      color: @gray-lighter;
+    }
+  }
+  .review-item-1 .caption {
+    top: 0;
+    left: 10px;
+    right: 20%;
+    bottom: auto;
+  }
+  .review-item-2 .caption {
+    top: auto;
+    left: 10px;
+    right: 17%;
+    bottom: 0;
+  }
+  .review-item-3 .caption {
+    top: auto;
+    left: 17%;
+    right: 10px;
+    bottom: 0;
+  }
+  .review-item-4 .caption {
+    top: 0;
+    left: 62%;
+    right: 10px;
+    bottom: auto;
+    .reviewer {
+      margin-top: 6px;
+      text-align: left;
+    }
+  }
+  .review-item-5 .caption {
+    top: 0;
+    left: 17%;
+    right: 10px;
+    bottom: auto;
+  }
+  .review-item-6 .caption {
+    top: 0;
+    left: 10px;
+    right: 63%;
+    bottom: auto;
+    .reviewer {
+      margin-top: 6px;
+      text-align: left;
+    }
+  }
+  .review-item-7 .caption {
+    top: 0;
+    left: 62%;
+    right: 10px;
+    bottom: auto;
+    .reviewer {
+      margin-top: 6px;
+      text-align: left;
+    }
+  }
+}
+
+// Cutting and trimming for masonry layout
+#impact {
+  @media (max-width: @screen-xs-max) {
+    .reviews {
+      max-width: 400px;
+      .center-block();
+    }
+  }
+  @media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
+    .review-item-5 {
+      height: 474px;
+      overflow: hidden;
+      img {
+        width: 100%;
+      }
+    }
+  }
+  @media (min-width: @screen-md-min) {
+    .review-item-4 {
+      display: none;
     }
   }
 }
