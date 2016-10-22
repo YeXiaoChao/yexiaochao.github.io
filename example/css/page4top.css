@@ -5,19 +5,16 @@
 .page{
     margin: auto;
 }
-.btnTop{
-    width:34px;
-    height: 34px;
-    position:fixed;
-    bottom: 30px;
-    background: url('../img/gotop.jpg') no-repeat scroll 0 0 / 34px 103px;
-    right:0;
-    margin-right: 6px;
+.btnTop {
+    position: fixed;
+    right: 2%;
+    bottom: 2%;
+    cursor: pointer;
+    opacity: .7;
+    z-index: 9;
 }
-
-.btnTop:hover{
-    background: url('../img/gotop_hover.jpg') no-repeat scroll 0 0 / 34px 103px;
-}
+.btnTop:hover { opacity: 1;}
+.imageTop { height: 72px; height: 72px;}
 .hide{
-    display: none;;
+    display: none;
 }

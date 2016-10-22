@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/img/o_to_Top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/js/page4example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/page4example.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show/bootstrap-code-04.html" afterPath="$PROJECT_DIR$/show/bootstrap-code-04.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show/bootstrap-code-05.html" afterPath="$PROJECT_DIR$/show/bootstrap-code-05.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example.html" afterPath="$PROJECT_DIR$/example.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/css/page4top.css" afterPath="$PROJECT_DIR$/example/css/page4top.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/js/page4top.js" afterPath="$PROJECT_DIR$/example/js/page4top.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4dynamicmenu.html" afterPath="$PROJECT_DIR$/example/page4dynamicmenu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4filter.html" afterPath="$PROJECT_DIR$/example/page4filter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4middle_button.html" afterPath="$PROJECT_DIR$/example/page4middle_button.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4mobile.html" afterPath="$PROJECT_DIR$/example/page4mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4pc.html" afterPath="$PROJECT_DIR$/example/page4pc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/page4top.html" afterPath="$PROJECT_DIR$/example/page4top.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/base.js" afterPath="$PROJECT_DIR$/js/base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music.html" afterPath="$PROJECT_DIR$/music.html" />
     </list>
     <ignored path="yexiaochao.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,50 +40,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="inverted-image.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/show/inverted-image.html">
+      <file leaf-file-name="page4example.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/page4example.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.214286">
-              <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
+            <state vertical-scroll-proportion="-16.964285">
+              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap-code-04.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/show/bootstrap-code-04.html">
+      <file leaf-file-name="page4top.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/page4top.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.892858">
-              <caret line="35" column="118" selection-start-line="35" selection-start-column="118" selection-end-line="35" selection-end-column="118" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap-code-05.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/show/bootstrap-code-05.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.25">
-              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap-code-06.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/show/bootstrap-code-06.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54774773">
-              <caret line="48" column="57" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
+            <state vertical-scroll-proportion="-16.392857">
+              <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
               <folding>
-                <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1476885531159" expanded="true" signature="1017:1269" placeholder="..." />
-                <marker date="1476885531159" expanded="true" signature="1110:1138" placeholder="..." />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page4top.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example/css/page4top.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17148015">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page4example.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/js/page4example.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,8 +90,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -96,14 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/example/page4mobile.html" />
-        <option value="$PROJECT_DIR$/example/page4middle_button.html" />
-        <option value="$PROJECT_DIR$/example/page4filter.html" />
-        <option value="$PROJECT_DIR$/example/page4dynamicmenu.html" />
-        <option value="$PROJECT_DIR$/example/music_player_by_jquery.html" />
-        <option value="$PROJECT_DIR$/music/Katy Perry/396236.html" />
-        <option value="$PROJECT_DIR$/music/Various Artists/433125.html" />
-        <option value="$PROJECT_DIR$/show4cnblogs/otherpage.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/show-iframe.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/show-embed.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/show-object-param.html" />
@@ -117,21 +119,14 @@
         <option value="$PROJECT_DIR$/show4cnblogs/show-ajax-css.html" />
         <option value="$PROJECT_DIR$/js/example/page4top.js" />
         <option value="$PROJECT_DIR$/css/example/page4top.css" />
-        <option value="$PROJECT_DIR$/example/page4top.html" />
         <option value="$PROJECT_DIR$/example/css/page4dynamicmenu.css" />
-        <option value="$PROJECT_DIR$/example/js/page4top.js" />
-        <option value="$PROJECT_DIR$/example/css/page4top.css" />
         <option value="$PROJECT_DIR$/show4cnblogs/learn-css.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/example.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/show-meter.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/img-map.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/geolocation.html" />
         <option value="$PROJECT_DIR$/js/outer_line/tongji4blogluka.js" />
-        <option value="$PROJECT_DIR$/music.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/base.js" />
         <option value="$PROJECT_DIR$/css/layout.css" />
-        <option value="$PROJECT_DIR$/example.html" />
         <option value="$PROJECT_DIR$/show/bootstrap-code-02.html" />
         <option value="$PROJECT_DIR$/show/less/_buttons-custom.less" />
         <option value="$PROJECT_DIR$/show/js/masonry.pkgd.min.js" />
@@ -147,6 +142,21 @@
         <option value="$PROJECT_DIR$/show/inverted-image.html" />
         <option value="$PROJECT_DIR$/show/bootstrap-code-04.html" />
         <option value="$PROJECT_DIR$/show/bootstrap-code-05.html" />
+        <option value="$PROJECT_DIR$/js/base.js" />
+        <option value="$PROJECT_DIR$/example/page4pc.html" />
+        <option value="$PROJECT_DIR$/example/page4mobile.html" />
+        <option value="$PROJECT_DIR$/example/page4dynamicmenu.html" />
+        <option value="$PROJECT_DIR$/example/page4filter.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/music.html" />
+        <option value="$PROJECT_DIR$/example.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/example/page4middle_button.html" />
+        <option value="$PROJECT_DIR$/example/js/page4top.js" />
+        <option value="$PROJECT_DIR$/example/page4top.html" />
+        <option value="$PROJECT_DIR$/example/css/page4top.css" />
+        <option value="$PROJECT_DIR$/example/js/page4example.js" />
+        <option value="$PROJECT_DIR$/example/page4example.html" />
       </list>
     </option>
   </component>
@@ -193,6 +203,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -221,15 +234,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="show" />
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,19 +306,19 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Backspace\yexiaochao.github.io\show\img" />
-      <recent name="F:\Backspace\yexiaochao.github.io\img" />
-      <recent name="F:\Backspace\yexiaochao.github.io\js" />
-      <recent name="C:\Users\Yanis\Documents\GitHub\yexiaochao.github.io\show4cnblogs\imgs" />
-      <recent name="C:\Users\Yanis\Documents\GitHub\yexiaochao.github.io\example\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Backspace\yexiaochao.github.io\show" />
       <recent name="F:\Backspace\yexiaochao.github.io\show\js" />
       <recent name="C:\Users\Yanis\Documents\GitHub\yexiaochao.github.io\example\img" />
       <recent name="C:\Users\Yanis\Documents\GitHub\yexiaochao.github.io\example\js" />
       <recent name="C:\Users\Yanis\Documents\GitHub\yexiaochao.github.io\example\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Backspace\yexiaochao.github.io\example\img" />
+      <recent name="F:\Backspace\yexiaochao.github.io\show\img" />
+      <recent name="F:\Backspace\yexiaochao.github.io\img" />
+      <recent name="F:\Backspace\yexiaochao.github.io\js" />
+      <recent name="C:\Users\Yanis\Documents\GitHub\yexiaochao.github.io\show4cnblogs\imgs" />
     </key>
   </component>
   <component name="RunManager">
@@ -790,13 +836,9 @@
       <workItem from="1476884186337" duration="2731000" />
       <workItem from="1476932474977" duration="625000" />
       <workItem from="1476933296054" duration="9256000" />
-      <workItem from="1477031823161" duration="128000" />
-    </task>
-    <task id="LOCAL-00009" summary="update">
-      <created>1457598281742</created>
-      <option name="number" value="00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1457598281742</updated>
+      <workItem from="1477031823161" duration="354000" />
+      <workItem from="1477032472830" duration="2119000" />
+      <workItem from="1477127766076" duration="6007000" />
     </task>
     <task id="LOCAL-00010" summary="update">
       <created>1457598717278</created>
@@ -1086,11 +1128,17 @@
       <option name="project" value="LOCAL" />
       <updated>1476952025129</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="update">
+      <created>1477031968872</created>
+      <option name="number" value="00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1477031968917</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309073000" />
+    <option name="totallyTimeSpent" value="317425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1099,27 +1147,27 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1147,43 +1195,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/music/Katy Perry/396236.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/music/Various Artists/433125.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/show-page/img_bananas.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/page4filter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.75">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="8" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example/js/jquery-2.1.4.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/js/page4pc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -1206,13 +1221,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/page4dynamicmenu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.785714">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example/css/page4filter.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6785714">
@@ -1224,27 +1232,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/css/page4top.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/js/page4top.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="31" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/page4middle_button.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3571428">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1268,27 +1255,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/music.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="57" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/show4cnblogs/animated-menu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.535714">
@@ -1310,38 +1276,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/page4mobile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2142857">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/page4pc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1428572">
-          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/page4top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.821428">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/show4cnblogs/img-map.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43963963">
           <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34954956">
-          <caret line="24" column="80" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
         </state>
       </provider>
     </entry>
@@ -1443,14 +1381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0357144">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="4" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/ycdoit.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1465,7 +1395,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/show/inverted-image.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.214286">
+        <state vertical-scroll-proportion="0.0">
           <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1477,7 +1407,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/show/bootstrap-code-04.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.892858">
+        <state vertical-scroll-proportion="0.0">
           <caret line="35" column="118" selection-start-line="35" selection-start-column="118" selection-end-line="35" selection-end-column="118" />
           <folding />
         </state>
@@ -1485,7 +1415,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/show/bootstrap-code-05.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.25">
+        <state vertical-scroll-proportion="-21.035715">
           <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
           <folding />
         </state>
@@ -1493,13 +1423,153 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/show/bootstrap-code-06.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54774773">
+        <state vertical-scroll-proportion="-11.785714">
           <caret line="48" column="57" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
           <folding>
             <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <marker date="1476885531159" expanded="true" signature="1017:1269" placeholder="..." />
             <marker date="1476885531159" expanded="true" signature="1110:1138" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.071429">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.071429">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17148015">
+          <caret line="5" column="74" selection-start-line="5" selection-start-column="74" selection-end-line="7" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6785714">
+          <caret line="5" column="74" selection-start-line="5" selection-start-column="74" selection-end-line="7" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/page4dynamicmenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17148015">
+          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="7" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/page4filter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0357144">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="4" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/page4middle_button.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.071429">
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/page4mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.071429">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/page4pc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30866426">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/js/page4pc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1305842">
+          <caret line="4" column="53" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/js/page4top.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="47" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/js/page4example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/page4example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.964285">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/page4top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.392857">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/css/page4top.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17148015">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
