@@ -99,7 +99,7 @@ sub { bottom: -0.25em; }
 #content h1 { margin: 0; color: #F60; }
 hr { border: none; height: 1px; line-height: 1px; background: #CCC; margin-bottom: 20px; padding: 0; }
 p { margin: 0; padding: 7px 0; }
-#footer { max-width: 760px; width: auto; margin: 0 auto; border: 1px solid #CCC; border-top: none; overflow: hidden; margin-bottom: 18px; }
+#footer { max-width: 760px; width: auto; margin: 0 auto; border: 1px solid #CCC; border-top: none; overflow: hidden; margin-bottom: 18px; clear: both;}
 #footer .fleft, #footer .fleft a { font: bold 9px/20px Verdana, Geneva, sans-serif; color: #AAA; }
 #footer a { font-weight: bold; color: #AAA; text-decoration: underline; }
 #footer a:hover { color: #F80; }
