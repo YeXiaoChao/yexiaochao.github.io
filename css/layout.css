@@ -123,3 +123,13 @@ p { margin: 0; padding: 7px 0; }
 .tz_qingg { background: #64c500; }
 .tz_yelloww { background: #d45300; }
 .tz_bluee { background: #2ddff1; }
+.body_gray{
+    -webkit-filter:grayscale(100%);
+    -moz-filter:grayscale(100%);
+    -ms-filter:grayscale(100%);
+    -o-filter:grayscale(100%);
+    filter:grayscale(100%);
+    filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+    filter:gray;
+    -webkit-transform: translateZ(0);
+}

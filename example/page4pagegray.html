@@ -3,13 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width,user-scalable=no" name="viewport" />
-    <meta name="keywords" content="Luka,叶超,叶超Lua,回到顶部" />
-    <meta name="description" content="随着网站的不断发展，需要展示的内容也越来越丰富，这导致网页上能展示的内容越来越多。当内容堆积影响了用户体验，就需考虑如何提升用户体验。在这一系列的改动中，“回到顶部”的功能成为了一个经典。" />
+    <meta name="keywords" content="Luka,叶超,叶超Lua,网站页面变灰" />
+    <meta name="description" content="让网站所有元素变成灰色调，全浏览器支持，使用了滤镜，比较吃性能，建议作临时方案使用。" />
     <link href="../img/ycdoit.ico" type="image/x-icon" rel="shortcut icon" />
-    <title>回到顶部</title>
+    <title>网站页面变灰</title>
     <link href="../css/layout.css" rel="stylesheet" />
-    <link href="css/page4top.css" rel="stylesheet" />
-    <script src="js/page4top.js"></script>
 </head>
 <body>
 <div id="header">
@@ -18,12 +16,12 @@
         <div class="fright"> <a class="top_about" title="关于作者" href="http://yexiaochao.github.io/about.html">ABOUT</a> </div>
     </div>
 </div>
-<div id="content" style=" height: 1200px;">
-    <h1>返回顶部功能实现</h1>
-    <p>这是一个演示页面，您可以点击 <a href="http://www.cnblogs.com/yc-755909659/p/5988005.html">查看原文</a></p>
+<div id="content">
+    <h1>网站页面变灰功能实现</h1>
+    <p>这是一个演示页面，您可以点击 <a href="http://www.cnblogs.com/yc-755909659/p/6374228.html">查看原文</a></p>
     <hr />
-    <div class="text_center">往下拉哟</div>
-    <div class="text_center">↓</div>
+    <img src="img/img4filter.jpg" alt="a picture">
+    <p> <input type="button" value="Click" id="btnChange" /></p>
 </div>
 <div id="footer">
     <div class="fleft">Copyright &copy; 2015 - 2017 &nbsp;<a href="https://github.com/YeXiaoChao">叶超Luka</a></div>
@@ -33,5 +31,14 @@
     <img src="img/o_to_Top.png" class="imageTop">
 </a>
 <script type="text/javascript" src="../js/base.js"></script>
+<script type="text/javascript">
+    document.body.onclick = function(){
+        if(document.body.className==""){
+            document.body.className = "body_gray";
+        } else {
+            document.body.className ="";
+        }
+    }
+</script>
 </body>
 </html>

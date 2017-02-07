@@ -9,4 +9,10 @@ var _hmt = _hmt || [];
     s.parentNode.insertBefore(hm, s);
 })();
 
+var helloCn = "大家好，我是叶超！\n欢迎来到我的个人网站！";
+var helloEn = "Hello everyone! \nI'm Luka! \nWelcome to my personal website!";
+console.log(helloCn);
+console.log(helloEn);
+
+
 
