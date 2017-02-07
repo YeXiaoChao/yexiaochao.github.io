@@ -27,8 +27,8 @@
       <file leaf-file-name="page4pagegray.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example/page4pagegray.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69133574">
-              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.55415165">
+              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -825,13 +825,7 @@
       <workItem from="1481008711152" duration="99000" />
       <workItem from="1486091141166" duration="602000" />
       <workItem from="1486266943332" duration="53000" />
-      <workItem from="1486450357660" duration="2835000" />
-    </task>
-    <task id="LOCAL-00017" summary="update">
-      <created>1457947045589</created>
-      <option name="number" value="00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1457947045589</updated>
+      <workItem from="1486450357660" duration="3503000" />
     </task>
     <task id="LOCAL-00018" summary="update">
       <created>1457947112424</created>
@@ -1121,11 +1115,17 @@
       <option name="project" value="LOCAL" />
       <updated>1486452595077</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="update">
+      <created>1486454111912</created>
+      <option name="number" value="00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1486454111912</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="348129000" />
+    <option name="totallyTimeSpent" value="348797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1499,8 +1499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example/page4pagegray.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69133574">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.55415165">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
           <folding />
         </state>
       </provider>
