@@ -362,3 +362,6 @@ content:"...";
     top:39px;
     z-index:100;
 }
+#content, #footer { background: none; border: none; }
+#header { border: none; }
+#container { text-align: left;}
