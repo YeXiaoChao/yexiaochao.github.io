@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,user-scalable=no" name="viewport"/>
+    <link href="../img/ycdoit.ico" type="image/x-icon" rel="shortcut icon"/>
+    <meta name="keywords" content="Luka,叶超,叶超Lua,图片在窗口中上下左右垂直居中"/>
+    <meta name="description" content="图片在窗口中上下左右垂直居中"/>
+    <title>图片在窗口中上下左右垂直居中</title>
+    <link href="../css/layout.css" rel="stylesheet"/>
+    <style type="text/css">
+        .theImg {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            -o-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);/* 定义 2D 转换 */
+        }
+    </style>
+</head>
+<body class="body">
+<div id="header"></div>
+<div id="content">
+    <img src="../img/img4example.jpg" class="theImg"/>
+</div>
+<div id="footer"></div>
+<script type="text/javascript" src="../js/base.js"></script>
+</body>
+</html>
