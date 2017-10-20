@@ -1,66 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/iconfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/iconfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/iconfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/ad/ad_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/ad/ad_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/ad/ad_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/ad/ad_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/album.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/bg_menu.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/bg_over.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/gotop.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/gotop_hover.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/icon/icon-taobao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/img-map.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/img4filter.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/luka_QR_code.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/o_to_Top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/online-service.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/page4top.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/qq.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/draw-out-type-suspension-window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/iconfont.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/music_player_by_jquery.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/online-service-with-qq-and-QRcode.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/page4dynamicmenu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/page4filter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/page4invertedimage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/page4top.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/draw-out-type-suspension-window.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/iconfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/image-center-no-scrolling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/image-in-center.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/image-random-show.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery-2.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/mouse-with-cross.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/page4dynamicmenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/page4example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/page4pc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/page4top.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/reflex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/mouse-with-cross.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/online-service-with-qq-and-QRcode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4dynamicmenu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4filter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4invertedimage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4mobile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4pagegray.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4pc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4top.html" />
+    <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/js/demo.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo.html" afterPath="$PROJECT_DIR$/demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/draw-out-type-suspension-window.html" afterPath="$PROJECT_DIR$/demo/draw-out-type-suspension-window.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/image-center-no-scrolling.html" afterPath="$PROJECT_DIR$/demo/image-center-no-scrolling.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/image-in-center.html" afterPath="$PROJECT_DIR$/demo/image-in-center.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/image-random-show.html" afterPath="$PROJECT_DIR$/demo/image-random-show.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/mouse-with-cross.html" afterPath="$PROJECT_DIR$/demo/mouse-with-cross.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/online-service-with-qq-and-QRcode.html" afterPath="$PROJECT_DIR$/demo/online-service-with-qq-and-QRcode.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/page4dynamicmenu.html" afterPath="$PROJECT_DIR$/demo/page4dynamicmenu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/page4filter.html" afterPath="$PROJECT_DIR$/demo/page4filter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/page4invertedimage.html" afterPath="$PROJECT_DIR$/demo/page4invertedimage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/page4mobile.html" afterPath="$PROJECT_DIR$/demo/page4mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/page4pagegray.html" afterPath="$PROJECT_DIR$/demo/page4pagegray.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/page4pc.html" afterPath="$PROJECT_DIR$/demo/page4pc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/page4top.html" afterPath="$PROJECT_DIR$/demo/page4top.html" />
     </list>
     <ignored path="yexiaochao.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,11 +38,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="page4invertedimage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/page4invertedimage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="49">
+              <caret line="30" column="98" lean-forward="true" selection-start-line="30" selection-start-column="98" selection-end-line="30" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page4filter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/page4filter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="37" column="67" lean-forward="false" selection-start-line="37" selection-start-column="67" selection-end-line="37" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            <state relative-caret-position="315">
+              <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page4pagegray.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/page4pagegray.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="22" column="71" lean-forward="false" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page4pc.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/page4pc.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="22" column="71" lean-forward="false" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page4top.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/page4top.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="26" column="71" lean-forward="false" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="draw-out-type-suspension-window.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/draw-out-type-suspension-window.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="36" column="71" lean-forward="false" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image-center-no-scrolling.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/image-center-no-scrolling.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="30" column="67" lean-forward="false" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image-in-center.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/image-in-center.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="29" column="67" lean-forward="false" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image-random-show.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/image-random-show.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="17" column="71" lean-forward="false" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -118,19 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/show4cnblogs/example.html" />
-        <option value="$PROJECT_DIR$/show4cnblogs/show-meter.html" />
-        <option value="$PROJECT_DIR$/show4cnblogs/img-map.html" />
-        <option value="$PROJECT_DIR$/show4cnblogs/geolocation.html" />
-        <option value="$PROJECT_DIR$/js/outer_line/tongji4blogluka.js" />
-        <option value="$PROJECT_DIR$/show/bootstrap-code-02.html" />
-        <option value="$PROJECT_DIR$/show/less/_buttons-custom.less" />
-        <option value="$PROJECT_DIR$/show/js/masonry.pkgd.min.js" />
-        <option value="$PROJECT_DIR$/show/js/plugins_six.js" />
-        <option value="$PROJECT_DIR$/show/less/__main.less" />
-        <option value="$PROJECT_DIR$/show/js/yc_blog.js" />
-        <option value="$PROJECT_DIR$/show/less/_variables.less" />
-        <option value="$PROJECT_DIR$/show/less/_pricing-tables.less" />
         <option value="$PROJECT_DIR$/show/less/_page-content.less" />
         <option value="$PROJECT_DIR$/show/bootstrap-code-06.html" />
         <option value="$PROJECT_DIR$/show/js/main_six.js" />
@@ -168,6 +202,19 @@
         <option value="$PROJECT_DIR$/example/mouse-with-cross.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/demo/js/demo.js" />
+        <option value="$PROJECT_DIR$/demo/page4mobile.html" />
+        <option value="$PROJECT_DIR$/demo/draw-out-type-suspension-window.html" />
+        <option value="$PROJECT_DIR$/demo/image-center-no-scrolling.html" />
+        <option value="$PROJECT_DIR$/demo/image-in-center.html" />
+        <option value="$PROJECT_DIR$/demo/image-random-show.html" />
+        <option value="$PROJECT_DIR$/demo/mouse-with-cross.html" />
+        <option value="$PROJECT_DIR$/demo/online-service-with-qq-and-QRcode.html" />
+        <option value="$PROJECT_DIR$/demo/page4dynamicmenu.html" />
+        <option value="$PROJECT_DIR$/demo/page4filter.html" />
+        <option value="$PROJECT_DIR$/demo/page4invertedimage.html" />
+        <option value="$PROJECT_DIR$/demo/page4pagegray.html" />
+        <option value="$PROJECT_DIR$/demo/page4pc.html" />
+        <option value="$PROJECT_DIR$/demo/page4top.html" />
         <option value="$PROJECT_DIR$/demo.html" />
       </list>
     </option>
@@ -220,6 +267,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yexiaochao.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -456,14 +531,7 @@
       <workItem from="1500005995095" duration="35000" />
       <workItem from="1501049667639" duration="15000" />
       <workItem from="1508472412865" duration="628000" />
-      <workItem from="1508490324475" duration="66000" />
-    </task>
-    <task id="LOCAL-00028" summary="update">
-      <created>1465378449837</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1465378449837</updated>
+      <workItem from="1508490324475" duration="1162000" />
     </task>
     <task id="LOCAL-00029" summary="update">
       <created>1465378517893</created>
@@ -801,11 +869,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500006014481</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="update">
+      <created>1508490431652</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1508490431652</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="374944000" />
+    <option name="totallyTimeSpent" value="376040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -865,30 +940,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/example/img/page4top.jpg" />
-    <entry file="file://$PROJECT_DIR$/example/img/gotop_hover.jpg" />
-    <entry file="file://$PROJECT_DIR$/example/img/gotop.jpg" />
-    <entry file="file://$PROJECT_DIR$/example/img/bg_over.gif" />
-    <entry file="file://$PROJECT_DIR$/example/img/bg_menu.gif" />
-    <entry file="file://$PROJECT_DIR$/example/img/img-map.jpg" />
-    <entry file="file://$PROJECT_DIR$/example/img/img4filter.jpg" />
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1729">
-          <caret line="91" column="26" lean-forward="false" selection-start-line="91" selection-start-column="26" selection-end-line="93" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/page4invertedimage.html" />
-    <entry file="file://$PROJECT_DIR$/example/page4mobile.html" />
-    <entry file="file://$PROJECT_DIR$/example/page4pc.html" />
     <entry file="file://$PROJECT_DIR$/example/page4pagegray.html" />
     <entry file="file://$PROJECT_DIR$/music/Katy Perry/396236.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -937,20 +988,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2166">
           <caret line="114" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="134" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/example.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -1026,24 +1063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/js/demo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="5" column="324" lean-forward="false" selection-start-line="5" selection-start-column="324" selection-end-line="5" selection-end-column="324" />
-          <folding>
-            <marker date="1508472919586" expanded="true" signature="571:577" ph="©" />
-            <marker date="1508472919586" expanded="true" signature="590:596" ph=" " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1064,18 +1083,149 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="5" column="324" lean-forward="false" selection-start-line="5" selection-start-column="324" selection-end-line="5" selection-end-column="324" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <marker date="1499915327858" expanded="true" signature="571:577" ph="©" />
+            <marker date="1499915327858" expanded="true" signature="590:596" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-397">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/mouse-with-cross.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="67" lean-forward="false" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/online-service-with-qq-and-QRcode.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="105" column="71" lean-forward="false" selection-start-line="105" selection-start-column="71" selection-end-line="105" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/page4dynamicmenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="41" column="71" lean-forward="false" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/page4mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="20" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/page4pagegray.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="22" column="71" lean-forward="false" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/page4pc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="22" column="71" lean-forward="false" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/page4top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="26" column="71" lean-forward="false" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/draw-out-type-suspension-window.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="36" column="71" lean-forward="false" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/image-center-no-scrolling.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="30" column="67" lean-forward="false" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/image-in-center.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="29" column="67" lean-forward="false" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/image-random-show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="17" column="71" lean-forward="false" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/page4filter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="37" column="67" lean-forward="false" selection-start-line="37" selection-start-column="67" selection-end-line="37" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo/page4invertedimage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+        <state relative-caret-position="49">
+          <caret line="30" column="98" lean-forward="true" selection-start-line="30" selection-start-column="98" selection-end-line="30" selection-end-column="98" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        <state relative-caret-position="315">
+          <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
           <folding />
         </state>
       </provider>
