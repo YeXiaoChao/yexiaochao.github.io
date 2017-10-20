@@ -1,8 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="">
+    <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="update">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/iconfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/iconfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/iconfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/ad/ad_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/ad/ad_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/ad/ad_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/ad/ad_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/album.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/bg_menu.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/bg_over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/gotop.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/gotop_hover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/icon/icon-taobao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/img-map.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/img4filter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/luka_QR_code.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/o_to_Top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/online-service.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/page4top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/img/qq.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/draw-out-type-suspension-window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/iconfont.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/music_player_by_jquery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/online-service-with-qq-and-QRcode.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/page4dynamicmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/page4filter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/page4invertedimage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/css/page4top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/draw-out-type-suspension-window.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/icomoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/fonts/iconfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/image-center-no-scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/image-in-center.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/image-random-show.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery-2.1.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/mouse-with-cross.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/page4dynamicmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/page4example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/page4pc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/page4top.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/reflex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/mouse-with-cross.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/online-service-with-qq-and-QRcode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4dynamicmenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4filter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4invertedimage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4pagegray.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4pc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/page4top.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="yexiaochao.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,75 +81,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="about.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/about.css">
+      <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6954">
-              <caret line="366" column="30" lean-forward="false" selection-start-line="366" selection-start-column="30" selection-end-line="366" selection-end-column="30" />
+            <state relative-caret-position="334">
+              <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3306">
-              <caret line="174" column="50" lean-forward="false" selection-start-line="174" selection-start-column="50" selection-end-line="174" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/404.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="77" lean-forward="false" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap-code-02.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/show/bootstrap-code-02.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap-code-04.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/show/bootstrap-code-04.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap-code-05.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/show/bootstrap-code-05.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap-code-06.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/show/bootstrap-code-06.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1476885531159" expanded="true" signature="1017:1269" ph="..." />
-                <marker date="1476885531159" expanded="true" signature="1110:1138" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -102,8 +97,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -123,8 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/example/css/page4dynamicmenu.css" />
-        <option value="$PROJECT_DIR$/show4cnblogs/learn-css.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/example.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/show-meter.html" />
         <option value="$PROJECT_DIR$/show4cnblogs/img-map.html" />
@@ -174,6 +167,8 @@
         <option value="$PROJECT_DIR$/example/image-center-no-scrolling.html" />
         <option value="$PROJECT_DIR$/example/mouse-with-cross.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/demo/js/demo.js" />
+        <option value="$PROJECT_DIR$/demo.html" />
       </list>
     </option>
   </component>
@@ -214,8 +209,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -264,19 +259,19 @@
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\img" />
-      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\img\about" />
-      <recent name="F:\Backspace\yexiaochao.github.io\example\js" />
-      <recent name="F:\Backspace\yexiaochao.github.io\example\img" />
-      <recent name="F:\Backspace\yexiaochao.github.io\show\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Backspace\yexiaochao.github.io\show" />
       <recent name="F:\Backspace\yexiaochao.github.io\show\js" />
       <recent name="C:\Users\Yanis\Documents\GitHub\yexiaochao.github.io\example\img" />
       <recent name="C:\Users\Yanis\Documents\GitHub\yexiaochao.github.io\example\js" />
       <recent name="C:\Users\Yanis\Documents\GitHub\yexiaochao.github.io\example\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\demo" />
+      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\img" />
+      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\img\about" />
+      <recent name="F:\Backspace\yexiaochao.github.io\example\js" />
+      <recent name="F:\Backspace\yexiaochao.github.io\example\img" />
     </key>
   </component>
   <component name="RunManager">
@@ -458,14 +453,10 @@
       <workItem from="1499918611281" duration="1028000" />
       <workItem from="1500002701901" duration="132000" />
       <workItem from="1500003542443" duration="1843000" />
-      <workItem from="1500005995095" duration="11000" />
-    </task>
-    <task id="LOCAL-00027" summary="update">
-      <created>1465377490260</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1465377490260</updated>
+      <workItem from="1500005995095" duration="35000" />
+      <workItem from="1501049667639" duration="15000" />
+      <workItem from="1508472412865" duration="628000" />
+      <workItem from="1508490324475" duration="66000" />
     </task>
     <task id="LOCAL-00028" summary="update">
       <created>1465378449837</created>
@@ -803,11 +794,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500005355225</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="update">
+      <created>1500006014480</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1500006014481</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="374211000" />
+    <option name="totallyTimeSpent" value="374944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -822,7 +820,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3229508" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -867,12 +865,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/example/js/page4top.js" />
-    <entry file="file://$PROJECT_DIR$/example/js/page4example.js" />
-    <entry file="file://$PROJECT_DIR$/example/css/page4top.css" />
-    <entry file="file://$PROJECT_DIR$/example/css/page4invertedimage.css" />
-    <entry file="file://$PROJECT_DIR$/example/js/reflex.js" />
-    <entry file="file://$PROJECT_DIR$/example/img/o_to_Top.png" />
     <entry file="file://$PROJECT_DIR$/example/img/page4top.jpg" />
     <entry file="file://$PROJECT_DIR$/example/img/gotop_hover.jpg" />
     <entry file="file://$PROJECT_DIR$/example/img/gotop.jpg" />
@@ -962,20 +954,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/music.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="47" column="58" lean-forward="false" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="35" column="67" lean-forward="false" selection-start-line="35" selection-start-column="67" selection-end-line="35" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/show4cnblogs/animated-menu.html" />
     <entry file="file://$PROJECT_DIR$/show4cnblogs/img-map.html" />
     <entry file="file://$PROJECT_DIR$/show4cnblogs/geolocation.html" />
@@ -984,32 +962,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6954">
           <caret line="366" column="30" lean-forward="false" selection-start-line="366" selection-start-column="30" selection-end-line="366" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example.html" />
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3306">
-          <caret line="174" column="50" lean-forward="false" selection-start-line="174" selection-start-column="50" selection-end-line="174" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="77" lean-forward="false" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="77" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/show/bootstrap-code-02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="19">
+          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -1017,7 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1037,6 +1003,80 @@
             <marker date="1476885531159" expanded="true" signature="1017:1269" ph="..." />
             <marker date="1476885531159" expanded="true" signature="1110:1138" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3306">
+          <caret line="174" column="50" lean-forward="false" selection-start-line="174" selection-start-column="50" selection-end-line="174" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="7" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="5" column="324" lean-forward="false" selection-start-line="5" selection-start-column="324" selection-end-line="5" selection-end-column="324" />
+          <folding>
+            <marker date="1508472919586" expanded="true" signature="571:577" ph="©" />
+            <marker date="1508472919586" expanded="true" signature="590:596" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/css/music_player_by_jquery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="7" lean-forward="false" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/js/page4dynamicmenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/page4invertedimage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,user-scalable=no" name="viewport" />
+    <link href="img/ycdoit.ico" type="image/x-icon" rel="shortcut icon" />
+    <meta name="keywords" content="Luka,叶超,叶超Lua,叶超Lua's Web,示例列表,Demo List" />
+    <meta name="description" content="示例列表,Demo List" />
+    <title>Demo List</title>
+    <link href="demo/css/demo.css" rel="stylesheet" />
+</head>
+<body>
+<<div id="header">
+    <div id="header_nav">
+        <div class="fleft">
+            <a class="top_home" title="首页" href="http://yexiaochao.github.io/">HOME</a>
+            <a class="top_blog" title="博客" href="http://www.cnblogs.com/yc-755909659/">BLOG</a>
+        </div>
+        <div class="fright">
+            <a class="top_about" title="关于作者" href="http://yexiaochao.github.io/about.html">ABOUT</a>
+        </div>
+    </div>
+</div>
+<div class="example_list" id="content">
+    <p class="example_info"><a href="demo/page4pc.html">移动端访问PC端网页时跳转到对应的移动端网页</a></p>
+    <p class="example_info"><a href="demo/page4dynamicmenu.html">jOuery:动态下滑菜单</a></p>
+    <p class="example_info"><a href="demo/page4filter.html">CSS3 滤镜实现</a></p>
+    <p class="example_info"><a href="demo/page4top.html">返回顶部功能</a></p>
+    <p class="example_info"><a href="demo/page4invertedimage.html">HTML5实现图片倒影效果</a></p>
+    <p class="example_info"><a href="demo/page4pagegray.html">网站页面变灰</a></p>
+    <p class="example_info"><a href="demo/image-in-center.html">图片在窗口中上下左右垂直居中</a></p>
+    <p class="example_info"><a href="demo/image-center-no-scrolling.html">图片垂直居中不随滚动条滚动</a></p>
+    <p class="example_info"><a href="demo/mouse-with-cross.html">鼠标跟随十字显示当前鼠标坐标</a></p>
+    <p class="example_info"><a href="demo/image-random-show.html">随机显示的广告图片</a></p>
+
+</div>
+<div id="footer">
+    <div class="fleft">Copyright &copy; 2015 - 2017 &nbsp;<a href="https://github.com/YeXiaoChao">叶超Luka</a></div>
+</div>
+<script type="text/javascript" src="js/jquery/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="js/base.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var exampleInfo = $(".example_info");
+        var index;
+        for (var i = 0; i < exampleInfo.length; i++) {
+            index = i % 15;
+            if (index === 0) {
+                $(exampleInfo[i]).addClass("tz_blue");
+            } else if (index === 1) {
+                $(exampleInfo[i]).addClass("tz_red");
+            } else if (index === 2) {
+                $(exampleInfo[i]).addClass("tz_gray");
+            } else if (index === 3) {
+                $(exampleInfo[i]).addClass("tz_org");
+            } else if (index === 4) {
+                $(exampleInfo[i]).addClass("tz_lv");
+            } else if (index === 5) {
+                $(exampleInfo[i]).addClass("tz_qing");
+            } else if (index === 6) {
+                $(exampleInfo[i]).addClass("tz_yellow");
+            } else if (index === 7) {
+                $(exampleInfo[i]).addClass("tz_bluees");
+            } else if (index === 8) {
+                $(exampleInfo[i]).addClass("tz_redd");
+            } else if (index === 9) {
+                $(exampleInfo[i]).addClass("tz_grayy");
+            } else if (index === 10) {
+                $(exampleInfo[i]).addClass("tz_orgg");
+            } else if (index === 11) {
+                $(exampleInfo[i]).addClass("tz_lvv");
+            } else if (index === 12) {
+                $(exampleInfo[i]).addClass("tz_qingg");
+            } else if (index === 13) {
+                $(exampleInfo[i]).addClass("tz_yelloww");
+            } else if (index === 14) {
+                $(exampleInfo[i]).addClass("tz_bluee");
+            }
+        }
+    });
+</script>
+</body>
+</html>

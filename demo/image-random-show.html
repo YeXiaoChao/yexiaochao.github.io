@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,user-scalable=no" name="viewport" />
+    <link href="../img/luka.ico" type="image/x-icon" rel="shortcut icon" />
+    <meta name="keywords" content="Luka,叶超,叶超Lua,随机显示的广告图片" />
+    <meta name="description" content="随机显示的广告图片" />
+    <title>随机显示的广告图片</title>
+    <link href="css/demo.css" rel="stylesheet" />
+</head>
+<body class="body">
+    <div id="header"></div>
+    <div id="content">
+        <img id="adImg" src="img/ad/ad_01.jpg" alt="adImage" />
+    </div>
+    <div id="footer"></div>
+    <script type="text/javascript" src="js/demo.js"></script>
+    <script type="text/javascript">
+        var imgs = [
+            "img/ad/ad_01.jpg",
+            "img/ad/ad_02.jpg",
+            "img/ad/ad_03.jpg",
+            "img/ad/ad_04.jpg"
+        ];
+        var index = Math.floor(Math.random() * imgs.length);
+        var imgPath = imgs[index];
+        document.getElementById("adImg").src = imgPath;
+    </script>
+</body>
+</html>
