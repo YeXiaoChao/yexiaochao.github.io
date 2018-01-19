@@ -42,7 +42,7 @@
         iframe5099738.src = "http://yexiaochao.github.io/show/animated-menu.html";
         iframe5099738.width = 320;
         iframe5099738.height = 240;
-        page5099738.appendChild(iframe);
+        page5099738.appendChild(iframe5099738);
     }
 
     //Baidu tongji
