@@ -36,12 +36,13 @@
     //添加页面效果
 
     //博客地址:http://www.cnblogs.com/yc-755909659/p/5099738.html
-    var iframe5099738 = document.getElementById("iframe5099738");
-    if(iframe5099738!=null){
-        iframe.src = "http://ycdoit.com/show4cnblogs/animated-menu.html";
-        iframe.width = 320;
-        iframe.height = 240;
-        iframe5099738.appendChild(iframe);
+    var page5099738 = document.getElementById("page5099738");
+    if(page5099738!=null){
+        var iframe5099738 = document.createElement("iframe");
+        iframe5099738.src = "http://ycdoit.com/show4cnblogs/animated-menu.html";
+        iframe5099738.width = 320;
+        iframe5099738.height = 240;
+        page5099738.appendChild(iframe);
     }
 
     //Baidu tongji
