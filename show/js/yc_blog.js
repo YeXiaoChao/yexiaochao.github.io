@@ -33,6 +33,17 @@
     navbar_collapse.setAttribute("class", "navbar-collapse collapse");
     $("#navList").wrap($(navbar_collapse));
     $("#navList").addClass("nav navbar-nav");
+    //添加页面效果
+
+    //博客地址:http://www.cnblogs.com/yc-755909659/p/5099738.html
+    var iframe5099738 = document.getElementById("iframe5099738");
+    if(iframe5099738!=null){
+        iframe.src = "http://ycdoit.com/show4cnblogs/animated-menu.html";
+        iframe.width = 320;
+        iframe.height = 240;
+        iframe5099738.appendChild(iframe);
+    }
+
     //Baidu tongji
     var _hmt = _hmt || [];
     (function () {
