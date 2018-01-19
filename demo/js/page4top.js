@@ -1,4 +1,5 @@
 window.onload = function(){
+    // 返回顶部功能 JS 代码
     var btnTop = document.getElementById("btnTop");
     var timer = null;
 
