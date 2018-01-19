@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/animated-menu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show/js/yc_blog.js" afterPath="$PROJECT_DIR$/show/js/yc_blog.js" />
     </list>
@@ -65,21 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yc_blog.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="yc_blog.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/show/js/yc_blog.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="19" />
+            <state relative-caret-position="372">
+              <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animated-menu.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="animated-menu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/show/animated-menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            <state relative-caret-position="247">
+              <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
               <folding>
                 <element signature="e#769#775#1" expanded="true" />
               </folding>
@@ -203,8 +202,8 @@
         <option value="$PROJECT_DIR$/demo/page4top.html" />
         <option value="$PROJECT_DIR$/demo.html" />
         <option value="$PROJECT_DIR$/demo/page4mobile.html" />
-        <option value="$PROJECT_DIR$/show/js/yc_blog.js" />
         <option value="$PROJECT_DIR$/show/animated-menu.html" />
+        <option value="$PROJECT_DIR$/show/js/yc_blog.js" />
       </list>
     </option>
   </component>
@@ -541,14 +540,7 @@
       <workItem from="1508490324475" duration="1787000" />
       <workItem from="1509415792680" duration="598000" />
       <workItem from="1509422215102" duration="36000" />
-      <workItem from="1516345825597" duration="1202000" />
-    </task>
-    <task id="LOCAL-00031" summary="update">
-      <created>1465802688456</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1465802688456</updated>
+      <workItem from="1516345825597" duration="1267000" />
     </task>
     <task id="LOCAL-00032" summary="update">
       <created>1465804448639</created>
@@ -886,11 +878,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516346673362</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="update">
+      <created>1516347033058</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1516347033058</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="378501000" />
+    <option name="totallyTimeSpent" value="378566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1206,21 +1205,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/show/js/yc_blog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/show/animated-menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="247">
+          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
           <folding>
             <element signature="e#769#775#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show/js/yc_blog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>

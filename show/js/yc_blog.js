@@ -39,7 +39,7 @@
     var page5099738 = document.getElementById("page5099738");
     if(page5099738!=null){
         var iframe5099738 = document.createElement("iframe");
-        iframe5099738.src = "http://ycdoit.com/show4cnblogs/animated-menu.html";
+        iframe5099738.src = "http://yexiaochao.github.io/show/animated-menu.html";
         iframe5099738.width = 320;
         iframe5099738.height = 240;
         page5099738.appendChild(iframe);
