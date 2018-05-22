@@ -1,0 +1,54 @@
+@charset "utf-8";
+*{margin:0;padding:0;}
+.pur_personal_stats{width:1000px;margin:20px auto;background-color:#E0E8F5}
+.pur_personal_stats h3{ font-size:30px;margin: 2%;}
+/*********** 统计 ******************/
+.pur_personal_stats_content{width: 1000px;float: left;}
+.totalInfos{width: 1000px;float: left;}
+.totalInfo{width:23%;margin: 1%;height:144px;float: left;}
+.totalInfo1{background-color:#F14338; }
+.totalInfo_icon{width: 40%;height: 100%;float: left;}
+.totalInfo_tips{float: left;width: 59%;height: 100%;}
+.totalInfo_icon1{border-right: #F7645A solid 1px;background-image:url(../img/totalInfo1.jpg);background-repeat: no-repeat;background-position: center;}
+.totalInfo_tip11{border-bottom: #F7645A solid 1px;height:49%;font-size:24px;color:#F9FEF8; text-align: center;}
+.totalInfo_tip11:before{content: ""; height: 29%; display: inline-block; vertical-align: middle;margin-right: -0.25em;}
+.totalInfo_tip11 span{display: block; vertical-align: middle;}
+.totalInfo_tip12{height:50%;font-size: 16px;color:#FEABB5;text-align: center;}
+.totalInfo_tip12:before{content: ""; height: 29%; display: inline-block; vertical-align: middle;margin-right: -0.25em;}
+.totalInfo_tip12 span{display: block; vertical-align: middle;}
+.totalInfo2{background-color:#FF9700;}
+.totalInfo_icon2{border-right: #FBAB2E solid 1px;background-image:url(../img/totalInfo2.jpg);background-repeat: no-repeat;background-position: center;}
+.totalInfo_tip21{border-bottom: #FBAB2E solid 1px;height:49%;font-size:24px;color:#F9FEF8; text-align: center;}
+.totalInfo_tip21:before{content: ""; height: 29%; display: inline-block; vertical-align: middle;margin-right: -0.25em;}
+.totalInfo_tip21 span{display: block; vertical-align: middle;}
+.totalInfo_tip22{ height:50%;font-size: 16px;color:#FBDCA6;text-align: center;}
+.totalInfo_tip22:before{content: ""; height: 29%; display: inline-block; vertical-align: middle;margin-right: -0.25em;}
+.totalInfo_tip22 span{display: block; vertical-align: middle;}
+.totalInfo3{background-color:#2196F3;}
+.totalInfo_icon3{border-right: #48A8F4 solid 1px;background-image:url(../img/totalInfo3.jpg);background-repeat: no-repeat;background-position: center;}
+.totalInfo_tip31{border-bottom: #48A8F4 solid 1px;height:49%;font-size:24px;color:#F9FEF8; text-align: center;}
+.totalInfo_tip31:before{content: ""; height: 29%; display: inline-block; vertical-align: middle;margin-right: -0.25em;}
+.totalInfo_tip31 span{display: block; vertical-align: middle;}
+.totalInfo_tip32{ height:50%;font-size: 16px;color:#AFDEFC;text-align: center;}
+.totalInfo_tip32:before{content: ""; height: 29%; display: inline-block; vertical-align: middle;margin-right: -0.25em;}
+.totalInfo_tip32 span{display: block; vertical-align: middle;}
+.totalInfo4{background-color:#4CB050;}
+.totalInfo_icon4{border-right: #6CBF71 solid 1px;background-image:url(../img/totalInfo4.jpg);background-repeat: no-repeat;background-position: center;}
+.totalInfo_tip41{border-bottom: #6CBF71 solid 1px;height:49%;font-size:24px;color:#F9FEF8; text-align: center;}
+.totalInfo_tip41:before{content: ""; height: 29%; display: inline-block; vertical-align: middle;margin-right: -0.25em;}
+.totalInfo_tip41 span{display: block; vertical-align: middle;}
+.totalInfo_tip42{ height:50%;font-size: 16px;color:#9CD298;text-align: center;}
+.totalInfo_tip42:before{content: ""; height: 29%; display: inline-block; vertical-align: middle;margin-right: -0.25em;}
+.totalInfo_tip42 span{display: block; vertical-align: middle;}
+/*********** 圆形图 ******************/
+.circle_graph{width: 1000px; height:480px;float: left;margin-top: 30px;}
+.circle_graph1{ width:40%; height:480px;float: left;}
+.circle_graph2{ width:60%; height:480px;float: left;}
+#circle_graph2_main,#graph11_main,#graph12_main{margin: 0 auto;}
+.circle_graph12{margin-top:20px;}
+/*********** 线形图 ******************/
+.linear_graph{width: 1000px; height:440px;float: left;}
+.graph21,.graph22{width:50%; height:440px;float: left;}
+#graph22_main {margin-left:10px;}
+/*********** 线形图 ******************/
+.bar_graph1,.bar_graph2{width: 1000px; height:440px;float: left;}
