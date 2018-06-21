@@ -1,4 +1,18 @@
-﻿/************** 动态广告位 ****************/
+﻿/***************** top_banner *************************/
+.top_banner { margin: 0 auto; }
+.topBanner_open { position: relative; }
+.top_banner .top_banner_ad { background-repeat: no-repeat; width: 100%; background-position: center center; background-size: auto; }
+.topbanner_fold { width: 44px; height: 15px; padding-left: 0; overflow: hidden; color: #FFF; position: absolute; top: 10px; right: 10px; cursor: pointer; display: block; background: rgba(0,0,0,.4); filter: progid:DXImageTransform.Microsoft.gradient(enabled=true, startColorstr='#75000000', endColorstr='#75000000');
+    line-height: 15px; text-indent: 4px; font-size: 12px; }
+.topbanner_fold:hover { background: rgba(0,0,0,0.5); color: #fff; }
+.topbanner_fold:active { background: rgba(0,0,0,0.4); color: #ccc; }
+.topbanner_fold:after { content: ""; width: 15px; height: 15px; display: inline-block; position: absolute; top: 0; right: 0; background: url(../images/iqiyiMallPcIndexExpendTrans.png) no-repeat 0 0; }
+.topbanner_fold:hover:after { background-position: -15px 0; }
+.topbanner_fold:active:after { background-position: -30px 0; }
+.topbanner_unfold:after { background-position: 0 -15px; }
+.topbanner_unfold:hover:after { background-position: -15px -15px; }
+.topbanner_unfold:active:after { background-position: -30px -15px; }
+/************** 动态广告位 ****************/
 .wrapper-box { padding-bottom: 40px; background: #fff; font-family: 'Microsoft YaHei' }
 .mod-new-focus { height: 400px; position: relative; _zoom: 1; margin: 0 auto; overflow: hidden }
 .new-focus-list { position: relative }
@@ -17,3 +31,48 @@
 .new-trigger-dot:hover { background: #ee394b }
 .new-trigger-dot:active { background: #cc0e2b }
 .new-trigger-dot.active { background: #ee394b }
+/*************** 普通广告 ************************/
+.common-banner{ margin-top: 40px}
+/*************** 今日精选 ************************/
+/*************** 今日精选.头部 ************************/
+.mod-new-model { padding-top: 25px }
+.mod-new-model-header { height: 36px; margin: 15px 0; font-family: "\5FAE\8F6F\96C5\9ED1" }
+.mod-new-model-headerL { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; float: left\0;  *float:left
+}
+.mod-new-model-headerL a { display: block }
+.mod-new-model-headerL .mod-new-model-headerIcon { vertical-align: top; width: 36px; height: 36px; display: inline-block; background-repeat: no-repeat; background-size: 36px 36px; background-position: 100% 100% }
+.mod-new-model-headerL .mod-new-model-headerTitle { vertical-align: middle; line-height: 36px; margin: 0 10px; font-size: 28px; color: #333 }
+.mod-new-model-headerL .mod-new-model-headerSlide { vertical-align: bottom; display: inline-block; margin-bottom: 7px; border-left: 1px solid #c2c2c2; width: 1px; height: 10px }
+.mod-new-model-headerL .mod-new-model-headerSubTitle { vertical-align: bottom; display: inline-block; margin-bottom: 4px; line-height: 16px;  *line-height:20px;
+    padding: 0 10px; font-size: 16px; color: #c2c2c2 }
+.mod-new-model-headerR { width: 60px; text-align: right; float: right\0;  *float:right
+}
+.mod-new-model-headerMore { display: inline-block; font-size: 14px; color: #666; vertical-align: bottom; line-height: 50px; padding-right: 10px; position: relative }
+.mod-new-model-headerMore:hover { color: #ee394b }
+.mod-new-model-headerMore:active { color: #d43343 }
+.mod-new-model-headerMore em { display: inline-block; margin-left: 3px; height: 12px; width: 6px; background: url(../common/icon/iqiyiMallPcRedMore.png) no-repeat; background-position: 0 0; background-size: auto; top: 19px; position: absolute; right: 0 }
+.mod-new-model-headerMore:hover em { background-position: -6px 0 }
+.mod-new-model-headerMore:active em { background-position: -12px 0 }
+/*************** 今日精选.内容 ************************/
+.tchoiceness-productList {
+    *zoom:1; margin-left: -1px; margin-top: -1px; border-right: 1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5 }
+.tchoiceness-productList:after { display: table; content: ''; clear: both }
+.tchoiceness-productList li { float: left; border-top: 1px solid #e5e5e5; border-left: 1px solid #e5e5e5 }
+.tchoiceness-product { width: 239px; display: block; position: relative; cursor: pointer }
+.tchoiceness-productPic { text-align: center; display: block }
+.tchoiceness-productPic img { border: 0; vertical-align: middle; margin-top: 15px; -webkit-transition: -webkit-transform .7s ease; -moz-transition: -moz-transform .7s ease; -ms-transition: -ms-transform .7s ease; -o-transition: -o-transform .7s ease; transition: transform .7s ease }
+.tchoiceness-product:hover img { -webkit-transform: scale(1.05); -moz-transform: scale(1.05); -ms-transform: scale(1.05); -o-transform: scale(1.05); transform: scale(1.05) }
+.tchoiceness-productInfo { margin-top: 15px; margin-left: 14px; margin-right: 14px }
+.tchoiceness-productInfo p { overflow: hidden; text-overflow: clip }
+.tchoiceness-productTitle { font-size: 14px; line-height: 22px; height: 22px }
+.tchoiceness-productTitle a { color: #333 }
+.tchoiceness-productStatus { margin-right: 5px; display: inline-block; height: 18px; line-height: 18px; position: relative; font-size: 12px; color: #fff; background: url(../common/icon/newPCindexproductStatus.png) repeat-x; background-position: 0 0; border-radius: 3px }
+.tchoiceness-productStatus em { display: inline-block; margin-left: 10px; height: 18px; line-height: 18px; background-color: #ee394b; border-radius: 3px; padding-right: 3px; width: 52px; word-break: break-all; text-overflow: clip; overflow: hidden; vertical-align: bottom }
+.tchoiceness-productSubTitle { font-size: 12px; color: #999; line-height: 20px; height: 20px }
+.tchoiceness-productDesc { height: 44px; line-height: 44px }
+.tchoiceness-productPrice { font-size: 20px; color: #ee394b;  *float:left  }
+.tchoiceness-productSale { font-size: 12px; color: #999; float: right}
+.codeNarrate { float: left; width: 270px; margin-left: 10px }
+.codeNarrate h1 { color: #333; font-size: 24px; padding-bottom: 5px }
+.codeNarrate p { color: #666; font-size: 14px; line-height: 25px }
+
