@@ -2,41 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/20170329/cb21b43a3c864f81b77f167fc5908860.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/20170329/f749f3c25fec4876954d57faa49acd42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/20180608/6b7631fa3a9c4e31b6f83dfd4931c360.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/20180608/951e41e0b68a4c5f8e375faf5d532c0f.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/ad/6c42dd0d2e62426ab6701bade68423ed.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/ad/96e40293631942bb9b52e21a54fdd799.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/ad/c78bcc7af4d94d8abb7526a71a5897e1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/ad/db69f03a62ee4923b4b55b1642a3f09f.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/ad/ec02b2feacf24c7e88bf6d93eadb04f5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/ad/f98125005c54482282e2847d57c898a9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/fix/h5_qiyiShop_img/modPup_closeRedIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/fix/h5_qiyiShop_img/modPup_titlePinkBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/fix/iqiyi_shop_images/btn_loadGreen.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/fix/sellCenter_images/pup_errIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/arrow2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/icon_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/iqiyiMallPcIndexExpendTrans.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/logo.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/logo1126.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/mall_qrcodeNew.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/navShowVipBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/navShowVipBoxImg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/nav_meau_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/nav_red_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/new_focus_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/new_focus_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/topMenuCar_redicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/topMenu_redicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/vip-toast-bg-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/images/vip-toast-header-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/css/home.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/js/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/js/jquery-2.1.4.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/mall.iqiyi/home.html" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/home.html" />
     </list>
     <ignored path="yexiaochao.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,8 +38,18 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="338" column="34" lean-forward="true" selection-start-line="338" selection-start-column="34" selection-end-line="338" selection-end-column="34" />
+            <state relative-caret-position="266">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-2.1.4.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/js/jquery-2.1.4.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -106,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/example/css/page4top.css" />
         <option value="$PROJECT_DIR$/example/js/page4example.js" />
         <option value="$PROJECT_DIR$/show/inverted-image.html" />
         <option value="$PROJECT_DIR$/example/css/page4invertedimage.css" />
@@ -157,6 +134,7 @@
         <option value="$PROJECT_DIR$/demo/img-map.html" />
         <option value="$PROJECT_DIR$/show/css/pur_personal_stats.css" />
         <option value="$PROJECT_DIR$/show/pur_personal_stats.html" />
+        <option value="$PROJECT_DIR$/projects/mall.iqiyi/home.html" />
       </list>
     </option>
   </component>
@@ -319,11 +297,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\js" />
       <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects" />
       <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\show\img" />
       <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\show\css" />
       <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\show\js" />
-      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\show" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Backspace\yexiaochao.github.io\show" />
@@ -524,14 +502,7 @@
       <workItem from="1523275842689" duration="24000" />
       <workItem from="1524558659980" duration="2508000" />
       <workItem from="1526978730054" duration="1368000" />
-      <workItem from="1529581316746" duration="92000" />
-    </task>
-    <task id="LOCAL-00045" summary="update">
-      <created>1470197962542</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1470197962542</updated>
+      <workItem from="1529581316746" duration="812000" />
     </task>
     <task id="LOCAL-00046" summary="update">
       <created>1470198104479</created>
@@ -869,11 +840,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526979495163</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="mall.iqiyi web add">
+      <created>1529581470012</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1529581470013</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="390074000" />
+    <option name="totallyTimeSpent" value="390794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -922,7 +900,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dd" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="mall.iqiyi web add" />
+    <option name="LAST_COMMIT_MESSAGE" value="mall.iqiyi web add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -933,14 +912,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/about.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6954">
-          <caret line="366" column="30" lean-forward="false" selection-start-line="366" selection-start-column="30" selection-end-line="366" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example.html" />
     <entry file="file://$PROJECT_DIR$/show/bootstrap-code-02.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1260,10 +1231,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/js/jquery-2.1.4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2052">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/js/jquery-2.1.4.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="338" column="34" lean-forward="true" selection-start-line="338" selection-start-column="34" selection-end-line="338" selection-end-column="34" />
+        <state relative-caret-position="266">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
           <folding />
         </state>
       </provider>
