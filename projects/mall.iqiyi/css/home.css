@@ -1,0 +1,19 @@
+﻿/************** 动态广告位 ****************/
+.wrapper-box { padding-bottom: 40px; background: #fff; font-family: 'Microsoft YaHei' }
+.mod-new-focus { height: 400px; position: relative; _zoom: 1; margin: 0 auto; overflow: hidden }
+.new-focus-list { position: relative }
+.new-focus-li { position: absolute; top: 0; left: 0; height: 400px; width: 100%; z-index: 1; opacity: 0; zoom: 1; display: none }
+.new-focus-li-show {opacity: 1; z-index: 3; display: block;}
+.new-focus-li-hide {opacity: 0; z-index: 1; display: none;}
+.new-focus-li a { display: block; height: 400px; background-position: center center; background-repeat: no-repeat; background-size: auto }
+.new-focus-prev, .new-focus-next { width: 66px; display: block; height: 66px; position: absolute; opacity: .0; filter: alpha(opacity=0); background-repeat: no-repeat; top: 50%; margin-top: -35px; z-index: 10; -webkit-transition: -webkit-opacity 500ms ease-out; -moz-transition: -moz-opacity 500ms ease-out; -o-transition: -o-opacity 500ms ease-out; transition: opacity 500ms ease-out }
+.new-focus-prev { left: 50%; margin-left: -600px; background-image: url(../images/new_focus_prev.png); background-position: 0 0 }
+.new-focus-next { right: 50%; margin-right: -600px; background-image: url(../images/new_focus_next.png); background-position: 0 0 }
+.new-focus-prev:hover, .new-focus-next:hover { background-position: -66px 0 }
+.new-focus-prev:active, .new-focus-next:active { background-position: -132px 0 }
+.mod-new-focus:hover .new-focus-prev, .mod-new-focus:hover .new-focus-next { opacity: .6; filter: alpha(opacity=60) }
+.new-focus-triggers { width: 100%; position: absolute; bottom: 22px; text-align: center; z-index: 10; left: 50% }
+.new-trigger-dot { display: inline-block; float: left; cursor: pointer; margin: 0 6px; width: 12px; height: 12px; border-radius: 12px; background: rgba(0,0,0,0.4) }
+.new-trigger-dot:hover { background: #ee394b }
+.new-trigger-dot:active { background: #cc0e2b }
+.new-trigger-dot.active { background: #ee394b }
