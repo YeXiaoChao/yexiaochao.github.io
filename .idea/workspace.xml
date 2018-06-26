@@ -2,41 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99d63dbb-0849-4cea-8d94-47c268a7c34f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/ad/182caa1abf124f83b23949aac388348a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/ad/3439a69dd3f04bedbada3275f024edc7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/ad/3c2e23787147414e809d292f666e9168.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/ae2dd09618d545a595cc8c97be29a45d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/c116ab2233db4db2902f339a76e56d21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/footer_redcollectLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/footer_redgoodLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/footer_redmoneyLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/footer_redvideoLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/footer_redzhengLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/iqiyiMallPcRedMore.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/iqiyi_mall_code.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/iqiyi_mall_num.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/iqiyi_mall_ring.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/newPCindexproductStatus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/records.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/trust.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5a64af1114d4557886ce761f_1x1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5a713a35d2999d047e660c38_1x1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5aa239bd14d4557a7775d34d_1x1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5acf593d14d4557a7bbd898a_1x1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5ad4674314d4557a75bb6d0a_1x1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5ad7146714d4557a7987f8f6_1x1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5af2c00bf6882e3f351d08c8_1x1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5afc253414d45572184dd651_1x1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5b090279f6882e3f35645c81_1x1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5b0e5d3d74d57908d86e58bc_1x1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/css/kszt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/kszt/i71sports180614.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/mall.iqiyi/common/20180608/6b7631fa3a9c4e31b6f83dfd4931c360.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/mall.iqiyi/common/20180608/951e41e0b68a4c5f8e375faf5d532c0f.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/5be1fd58c2c0426d877fe1df5b5855a6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/b3f144bd340a4533937e921133c68424.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/icon/bb2d4ba3d4fa4b369c76b813af23cd7f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/i71sports_180614_pc_bg_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/i71sports_180614_pc_bg_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/i71sports_180614_pc_bg_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/i71sports_180614_pc_bg_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/i71sports_180614_pc_bg_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/i71sports_180614_pc_bg_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/i71sports_180614_pc_bg_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/i71sports_180614_pc_bg_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/i71sports_180614_pc_bg_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/i71sports_180614_pc_text_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/lhzyj_180615_pc_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/lhzyj_180615_pc_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/lhzyj_180615_pc_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/lhzyj_180615_pc_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/lhzyj_180615_pc_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/lhzyj_180615_pc_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/lhzyj_180615_pc_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/lhzyj_180615_pc_09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/lhzyj_180615_pc_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/kszt/lhzyj_180615_pc_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall2_5b10317914d455721878eb50_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_58cb4ae8f6882e2c0cb0c38d_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5947dd5c74d57906d2e7cb62_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5970ba1ff6882e3800f23f0a_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_59717a57f6882e37fc87788e_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_59c5a022d2999d3d6ace2cfb_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5a2e523614d455788d6c21ba_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5aa24b21f6882e10cdb4df1b_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5ad2857714d4557a75b80a6d_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5add4ad774d57908db13fb32_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5aeadd2974d57908d6f0e7d3_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5aebf73dd2999d6a966979f4_1x1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5aec3075f6882e3f344f8a16_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5b026ec174d57908d517dffb_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5b027bf514d45572153a8fc3_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5b0bad7ad2999d6a96c1ca5c_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5b0e87c3f6882e3f33abab63_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5b0fcfe414d4557215554307_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/common/products/mall_5b11232dd2999d6a9808365d_1x1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/item/19rroe8vy0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/kszt/lhzyj180615.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/mall.iqiyi/css/base.css" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/css/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/mall.iqiyi/css/home.css" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/css/home.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/mall.iqiyi/css/kszt.css" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/css/kszt.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/mall.iqiyi/home.html" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/mall.iqiyi/kszt/i71sports180614.html" afterPath="$PROJECT_DIR$/projects/mall.iqiyi/kszt/i71sports180614.html" />
     </list>
     <ignored path="yexiaochao.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,19 +84,27 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="80" column="62" lean-forward="false" selection-start-line="80" selection-start-column="62" selection-end-line="80" selection-end-column="62" />
+            <state relative-caret-position="347">
+              <caret line="319" column="62" lean-forward="false" selection-start-line="319" selection-start-column="62" selection-end-line="319" selection-end-column="62" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -90,6 +112,7 @@
                 <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ol#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -111,6 +134,10 @@
                 <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#li#8;n#ul#0;n#div#1;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#li#9;n#ul#0;n#div#1;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#li#9;n#ul#0;n#div#1;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#3;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#3;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#ul#0;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#em#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -119,6 +146,7 @@
                 <element signature="n#div#3;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -127,8 +155,8 @@
       <file leaf-file-name="kszt.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/css/kszt.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="215">
+              <caret line="96" column="149" lean-forward="false" selection-start-line="96" selection-start-column="149" selection-end-line="96" selection-end-column="149" />
               <folding />
             </state>
           </provider>
@@ -137,12 +165,57 @@
       <file leaf-file-name="i71sports180614.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/kszt/i71sports180614.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="46" column="51" lean-forward="true" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+            <state relative-caret-position="254">
+              <caret line="307" column="16" lean-forward="false" selection-start-line="307" selection-start-column="16" selection-end-line="307" selection-end-column="16" />
               <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#em#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#0;n#span#1;n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="19rroe8vy0.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/item/19rroe8vy0.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#ul#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -161,21 +234,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/css/base.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="58" column="26" lean-forward="false" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="home.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/css/home.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+            <state relative-caret-position="1463">
+              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -203,6 +266,11 @@
       <find>.main</find>
       <find>img</find>
       <find>img src</find>
+      <find>//pic0.qiyipic.com/common/20180615</find>
+      <find>mall.iqiyi.com</find>
+      <find>list_pro_btn</find>
+      <find>.rec-pro a</find>
+      <find>.main-box</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -216,9 +284,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/example/page4example.html" />
-        <option value="$PROJECT_DIR$/css/layout.css" />
-        <option value="$PROJECT_DIR$/example/page4dynamicmenu.html" />
         <option value="$PROJECT_DIR$/example/page4filter.html" />
         <option value="$PROJECT_DIR$/example/page4invertedimage.html" />
         <option value="$PROJECT_DIR$/example/page4mobile.html" />
@@ -262,10 +327,13 @@
         <option value="$PROJECT_DIR$/demo/img-map.html" />
         <option value="$PROJECT_DIR$/show/css/pur_personal_stats.css" />
         <option value="$PROJECT_DIR$/show/pur_personal_stats.html" />
-        <option value="$PROJECT_DIR$/projects/mall.iqiyi/css/kszt.css" />
         <option value="$PROJECT_DIR$/projects/mall.iqiyi/css/home.css" />
         <option value="$PROJECT_DIR$/projects/mall.iqiyi/css/base.css" />
+        <option value="$PROJECT_DIR$/projects/mall.iqiyi/item/19rroe8vy0.html" />
         <option value="$PROJECT_DIR$/projects/mall.iqiyi/home.html" />
+        <option value="$PROJECT_DIR$/projects/mall.iqiyi/css/i71sports180614.css" />
+        <option value="$PROJECT_DIR$/projects/mall.iqiyi/kszt/lhzyj180615.html" />
+        <option value="$PROJECT_DIR$/projects/mall.iqiyi/css/kszt.css" />
         <option value="$PROJECT_DIR$/projects/mall.iqiyi/kszt/i71sports180614.html" />
       </list>
     </option>
@@ -308,7 +376,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -379,66 +446,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yexiaochao.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yexiaochao.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mall.iqiyi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yexiaochao.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yexiaochao.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yexiaochao.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yexiaochao.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -465,26 +479,26 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="919" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\common\icon" />
-      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\common\ad" />
-      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\common\products" />
-      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\js" />
-      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\common\kszt" />
       <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\common\icon" />
       <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\common\fix" />
       <recent name="F:\Backspace\yexiaochao.github.io\show" />
       <recent name="F:\Backspace\yexiaochao.github.io\show\js" />
-      <recent name="C:\Users\Yanis\Documents\GitHub\yexiaochao.github.io\example\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\common\kszt" />
+      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\common\products" />
+      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\common\icon" />
+      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\common\ad" />
+      <recent name="F:\百度云同步盘\Yluka's Network Disk\Code Library\My Projects\yexiaochao.github.io\projects\mall.iqiyi\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -678,14 +692,9 @@
       <workItem from="1523275842689" duration="24000" />
       <workItem from="1524558659980" duration="2508000" />
       <workItem from="1526978730054" duration="1368000" />
-      <workItem from="1529581316746" duration="8659000" />
-    </task>
-    <task id="LOCAL-00047" summary="update">
-      <created>1472699463618</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1472699463618</updated>
+      <workItem from="1529581316746" duration="8759000" />
+      <workItem from="1529633555058" duration="599000" />
+      <workItem from="1529997098600" duration="11024000" />
     </task>
     <task id="LOCAL-00048" summary="update">
       <created>1472699633151</created>
@@ -1023,11 +1032,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529582149879</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="mall.iqiyi web update">
+      <created>1529590087961</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1529590087961</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="398641000" />
+    <option name="totallyTimeSpent" value="410364000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1037,9 +1053,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3229508" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1049,13 +1067,11 @@
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3262295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1089,21 +1105,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/js/page4dynamicmenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/js/demo.js" />
-    <entry file="file://$PROJECT_DIR$/js/example.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/show/js/yc_blog.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1293,10 +1294,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1476885531159" expanded="true" signature="1017:1269" ph="..." />
-            <marker date="1476885531159" expanded="true" signature="1110:1138" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1304,7 +1301,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1313,7 +1309,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="60" lean-forward="false" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1321,7 +1316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="11" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1329,7 +1323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1337,7 +1330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1345,7 +1337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="29" column="87" lean-forward="false" selection-start-line="29" selection-start-column="87" selection-end-line="29" selection-end-column="87" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1353,7 +1344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="55" lean-forward="false" selection-start-line="12" selection-start-column="55" selection-end-line="13" selection-end-column="77" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1361,7 +1351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1373,26 +1362,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/js/jquery-2.1.4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2052">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/js/jquery-2.1.4.js" />
     <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/js/jquery-2.1.4.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        <state relative-caret-position="1463">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1402,15 +1383,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="58" column="26" lean-forward="false" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/css/kszt.css">
+    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/css/i71sports180614.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1418,21 +1391,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/home.html">
+    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="80" column="62" lean-forward="false" selection-start-line="80" selection-start-column="62" selection-end-line="80" selection-end-column="62" />
+        <state relative-caret-position="342">
+          <caret line="60" column="25" lean-forward="false" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/kszt/lhzyj180615.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="266" column="47" lean-forward="false" selection-start-line="266" selection-start-column="47" selection-end-line="266" selection-end-column="47" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#em#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#span#1;n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/item/19rroe8vy0.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#em#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#span#1;n#div#2;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="319" column="62" lean-forward="false" selection-start-line="319" selection-start-column="62" selection-end-line="319" selection-end-column="62" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1440,6 +1497,7 @@
             <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ol#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1461,6 +1519,10 @@
             <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#li#8;n#ul#0;n#div#1;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#li#9;n#ul#0;n#div#1;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#li#9;n#ul#0;n#div#1;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#3;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#3;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#ul#0;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#em#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1469,31 +1531,54 @@
             <element signature="n#div#3;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/css/kszt.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="96" column="149" lean-forward="false" selection-start-line="96" selection-start-column="149" selection-end-line="96" selection-end-column="149" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/mall.iqiyi/kszt/i71sports180614.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="46" column="51" lean-forward="true" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+        <state relative-caret-position="254">
+          <caret line="307" column="16" lean-forward="false" selection-start-line="307" selection-start-column="16" selection-end-line="307" selection-end-column="16" />
           <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#em#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#span#1;n#div#2;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#3;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#em#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#span#1;n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
