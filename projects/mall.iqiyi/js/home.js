@@ -131,3 +131,27 @@ var newFocusPrevFunc = function () {
     $(".new-focus-li-show").removeClass("new-focus-li-show").addClass("new-focus-li-hide").fadeOut();
     $(".new-focus-li").eq(triggerIndex).removeClass("new-focus-li-hide").addClass("new-focus-li-show").fadeIn();
 }
+
+//获取xmlDoc对象，兼容浏览器，参考网上代码
+var getxmlDoc = function (xmlFile) {
+    var xmlDoc;
+    if (window.ActiveXObject) {
+        xmlDoc = new ActiveXObject('Microsoft.XMLDOM');//IE
+        xmlDoc.async = false;
+        xmlDoc.load(xmlFile);
+    }
+    else if (isFirefox=navigator.userAgent.indexOf("Firefox")>0) { //火狐
+        xmlDoc = document.implementation.createDocument('', '', null);
+        xmlDoc.async=false;
+        xmlDoc.load(xmlFile);
+    }
+    else{ //谷歌
+        var xmlhttp = new window.XMLHttpRequest();
+        xmlhttp.open("GET",xmlFile,false);
+        xmlhttp.send(null);
+        if(xmlhttp.readyState == 4){
+            xmlDoc = xmlhttp.responseXML.documentElement;
+        }
+    }
+    return xmlDoc;
+}

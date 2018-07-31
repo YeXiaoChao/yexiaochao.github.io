@@ -110,3 +110,15 @@
 .rec-pro-3>div { background-position: center -3022px; }
 .rec-pro-4>div { background-position: center -4510px; }
 .rec-pro-5>div { background-position: center bottom; }
+/*给普通列表加纯色背景框*/
+.list_item_box{
+    position: relative;
+    width: 1040px !important;
+    left: 50%;
+    margin-left: -520px !important;
+}
+.list_item_box .list_item_pro{
+    background-color: #eef4f7;
+    padding: 20px;
+}
+.i71sports180614 .cms-row .cms-block{background: #fff;}
